@@ -1,0 +1,1055 @@
+OBJECTID,BLD_ID,DEV_ID,DEV_NAME,NGHDNUM,POLICEDIVI,BLDG_POSTC,TOTAL_RESU,MRKT_UNIT,RGI_UNIT,YEAR_BUILT,BUILDING,BUILDFORM,FLR_ABV_GR,BLD_DESC,X,Y,LONGITUDE,LATITUDE
+550,5631,111,Humber Acres,8,23,M9P 1T1,47,2,45,1962,Towns & Wkups,Walkup Apartment Building,3,3-Storey  Walk-Up Apt. Bldg.,303451.384,4838967.587,-79.516536,43.6926615
+1466,3646,61,Jane John Best,30,12,M9N 2R7,76,0,76,1967,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,304510.668,4839681.395,-79.503396,43.6990884
+1750,3482,76,Finch Birchmount,117,42,M1T 2Z7,6,0,6,1969,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Sixplex,320599.66,4850651.981,-79.303467,43.7976702
+1751,3483,76,Finch Birchmount,117,42,M1T 2Z7,6,0,6,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,320599.66,4850651.981,-79.303467,43.7976702
+1754,3486,76,Finch Birchmount,117,42,M1T 2Z7,6,0,6,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,320599.66,4850651.981,-79.303467,43.7976702
+1755,3487,76,Finch Birchmount,117,42,M1T 2Z7,6,0,6,1969,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Sixplex,320599.66,4850651.981,-79.303467,43.7976702
+1756,3488,76,Finch Birchmount,117,42,M1T 2Z7,6,0,6,1969,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Sixplex,320599.66,4850651.981,-79.303467,43.7976702
+1757,3489,76,Finch Birchmount,117,42,M1T 2Z7,7,0,7,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320599.66,4850651.981,-79.303467,43.7976702
+1759,3491,76,Finch Birchmount,117,42,M1T 2Z7,8,0,8,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320599.66,4850651.981,-79.303467,43.7976702
+1760,3492,76,Finch Birchmount,117,42,M1T 2Z7,9,0,9,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320599.66,4850651.981,-79.303467,43.7976702
+1761,3493,76,Finch Birchmount,117,42,M1T 2Z7,10,0,10,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320599.66,4850651.981,-79.303467,43.7976702
+1737,90093,178,Empringham Mews,132,42,M1B 4A2,6,0,6,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327894.569,4852288.829,-79.212743,43.8122131
+1739,90095,178,Empringham Mews,132,42,M1B 4A2,8,0,8,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327894.569,4852288.829,-79.212743,43.8122131
+1745,90101,178,Empringham Mews,132,42,M1B 4A2,9,1,8,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327894.569,4852288.829,-79.212743,43.8122131
+1991,5439,186,Neilson Hall Apartments,132,42,M1B 5N2,126,9,117,1991,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,327408.037,4851795.432,-79.218812,43.8077869
+380,5557,162,Cliffwood Manor,48,33,M2H 3N2,397,1,396,1980,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,315929.111,4852055.344,-79.361479,43.8103865
+381,4356,35,Finch Brahms,48,33,M2H 1G8,6,0,6,1971,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,316148.866,4850108.335,-79.358788,43.7928583
+382,4357,35,Finch Brahms,48,33,M2H 1G9,8,0,8,1971,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,316217.292,4850172.988,-79.357936,43.7934392
+383,4358,35,Finch Brahms,48,33,M2H 1H1,164,0,164,1971,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,316167.619,4850056.03,-79.358556,43.7923872
+384,4359,35,Finch Brahms,48,33,M2H 1H2,178,0,178,1971,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,316225.415,4850094.01,-79.357837,43.7927282
+389,5545,151,Seneca Towers,48,33,M2J 4X8,275,0,275,1979,High Rise,High Rise Apt. Bldg.Elevator,18,18 - Storey High Rise Apt. Bldg.,316751.736,4850224.274,-79.351294,43.7938925
+1672,3637,56,Sheppard Victoria Park,117,42,M1T 1A8,201,0,201,1971,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,318912.612,4848579.722,-79.324486,43.7790516
+1673,3638,56,Sheppard Victoria Park,117,42,M1T 1A7,203,0,203,1971,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,318941.968,4848494.812,-79.324123,43.7782868
+1674,3966,218,Victoria Park Chester Le,117,42,M1W 2M9,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318379.839,4850593.352,-79.331054,43.797186
+1678,3970,218,Victoria Park Chester Le,117,42,M1W 2M9,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318379.839,4850593.352,-79.331054,43.797186
+1679,3971,218,Victoria Park Chester Le,117,42,M1W 2N4,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318258.14,4850817.67,-79.332561,43.7992073
+1681,3973,218,Victoria Park Chester Le,117,42,M1W 2K7,7,0,7,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318289.533,4850947.742,-79.332167,43.8003775
+1682,90045,218,Victoria Park Chester Le,117,42,M1W 2N1,8,0,8,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318422.767,4850523.578,-79.330522,43.7965573
+1683,90046,218,Victoria Park Chester Le,117,42,M1W 2N4,9,0,9,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318258.14,4850817.67,-79.332561,43.7992073
+1685,90048,218,Victoria Park Chester Le,117,42,M1W 2N4,12,0,12,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318258.14,4850817.67,-79.332561,43.7992073
+1686,90049,218,Victoria Park Chester Le,117,42,M1W 2K7,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318289.533,4850947.742,-79.332167,43.8003775
+1687,90050,218,Victoria Park Chester Le,117,42,M1W 2K7,7,0,7,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318289.533,4850947.742,-79.332167,43.8003775
+547,4361,37,Dixington Crescent,6,23,M9P 2K4,13,0,13,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,301492.9,4839532.605,-79.540835,43.6977409
+548,4362,37,Dixington Crescent,6,23,M9P 2K4,16,1,15,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,301458.754,4839545.816,-79.541259,43.6978597
+551,3644,219,Islington St.Andrews,6,23,M9P 2R7,162,1,161,1973,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,300919.034,4839917.639,-79.547957,43.7012039
+552,3645,219,Islington St.Andrews,6,23,M9P 2R8,162,1,161,1973,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,300879.927,4840035.496,-79.548443,43.7022646
+549,5528,134,Eagle Manor,113,31,M9N 3P5,391,13,378,1973,High Rise,High Rise Apt. Bldg.Elevator,9,9 - Storey High Rise Apt. Bldg.,303495.37,4839848.29,-79.515993,43.700589
+571,4018,98,Weston Bellevue,113,12,M9N 1G5,326,0,326,1971,High Rise,High Rise Apt. Bldg.Elevator,21,21 - Storey High Rise Apt. Bldg.,303556.925,4839687.3,-79.515229,43.69914
+1732,90088,178,Empringham Mews,132,42,M1B 3Z2,10,0,10,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,328043.92,4852263.709,-79.210888,43.8119823
+1733,90089,178,Empringham Mews,132,42,M1B 3Z2,8,1,7,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,328043.92,4852263.709,-79.210888,43.8119823
+1734,90090,178,Empringham Mews,132,42,M1B 3Z6,6,0,6,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327965.507,4852288.043,-79.211862,43.8122038
+1736,90092,178,Empringham Mews,132,42,M1B 4A2,6,1,5,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327894.569,4852288.829,-79.212743,43.8122131
+1559,3146,99,Teesdale Pharmacy,121,41,M1L 1L3,278,0,278,1971,High Rise,High Rise Apt. Bldg.Elevator,24,24 - Storey High Rise Apt. Bldg.,321998.393,4839494.37,-79.286441,43.6972076
+1577,5617,103,Scarborough Acres,120,41,M1K 1E4,16,1,15,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,323877.204,4841032.342,-79.263076,43.7110053
+1619,3201,69,St. Clair Birchmount 1,120,41,M1K 1L3,97,0,97,1968,High Rise,High Rise Apt. Bldg.Elevator,9,9 - Storey High Rise Apt. Bldg.,323467.401,4841421.877,-79.268148,43.7145219
+1620,4114,78,St. Clair Birchmount 2,120,41,M1K 1L2,94,0,94,1970,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,323381.434,4841396.427,-79.269216,43.714295
+1563,3530,16,Canlish Road,126,41,M1P 4M9,7,0,7,1955,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,322383.875,4845280.055,-79.281469,43.7492766
+1564,3531,16,Canlish Road,126,41,M1P 4M9,7,0,7,1955,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,322383.875,4845280.055,-79.281469,43.7492766
+1565,3532,16,Canlish Road,126,41,M1P 4M9,7,0,7,1955,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,322383.875,4845280.055,-79.281469,43.7492766
+1567,3534,16,Canlish Road,126,41,M1P 4M9,18,0,18,1955,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,322383.875,4845280.055,-79.281469,43.7492766
+1568,3535,16,Canlish Road,126,41,M1P 1S4,17,0,17,1955,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,322342.915,4845221.623,-79.281979,43.7487516
+1777,4147,10,Kennedy Dundalk,126,41,M1P 2N1,196,0,196,1971,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,322138.266,4847333.299,-79.284453,43.767764
+1778,3527,9,Kennedy Glamorgan,126,41,M1P 2M7,184,0,184,1971,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,322111.879,4847512.968,-79.284775,43.7693818
+1560,3478,96,Birchmount Eglinton,125,41,M1K 1S2,236,0,236,1972,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,322675.987,4843323.474,-79.277907,43.7316582
+1570,4077,53,Danforth Midland,124,41,M1K 4H6,217,0,217,1972,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg. & Recreation Centre-20 Gordon Ridge Place,324740.907,4842807.661,-79.252293,43.7269627
+1571,4078,53,Danforth Midland,124,41,M1K 4H7,231,0,231,1972,High Rise,High Rise Apt. Bldg.Elevator,17,17 - Storey High Rise Apt. Bldg.,324750.497,4842822.528,-79.252173,43.7270963
+1572,4079,53,Danforth Midland,124,41,M1K 4H8,421,0,421,1972,High Rise,High Rise Apt. Bldg.Elevator,18,18 - Storey High Rise Apt. Bldg.,324819.267,4842872.647,-79.251318,43.7275455
+1575,3199,73,Kennedy Road,124,41,M1K 3G9,45,0,45,1969,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,323854.783,4842776.82,-79.263293,43.7267084
+1576,3200,73,Kennedy Road,124,41,M1K 2B9,192,0,192,1969,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,323769.245,4842812.63,-79.264354,43.7270329
+2123,3188,21,Kingston Rd. (3190),123,43,M1M 1P5,6,0,6,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,326700.045,4843172.125,-79.227961,43.7301883
+1688,90051,218,Victoria Park Chester Le,117,42,M1W 2N1,8,0,8,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318422.767,4850523.578,-79.330522,43.7965573
+1689,90052,218,Victoria Park Chester Le,117,42,M1W 2N1,11,0,11,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318422.767,4850523.578,-79.330522,43.7965573
+1691,90054,218,Victoria Park Chester Le,117,42,M1W 2N1,8,0,8,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318422.767,4850523.578,-79.330522,43.7965573
+1692,90055,218,Victoria Park Chester Le,117,42,M1W 2N4,7,0,7,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318258.14,4850817.67,-79.332561,43.7992073
+1693,90056,218,Victoria Park Chester Le,117,42,M1W 2N4,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318258.14,4850817.67,-79.332561,43.7992073
+1694,90057,218,Victoria Park Chester Le,117,42,M1W 2N1,7,0,7,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318422.767,4850523.578,-79.330522,43.7965573
+1695,90058,218,Victoria Park Chester Le,117,42,M1W 2N1,7,0,7,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318422.767,4850523.578,-79.330522,43.7965573
+1696,90059,218,Victoria Park Chester Le,117,42,M1W 2N1,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318422.767,4850523.578,-79.330522,43.7965573
+1697,3974,218,Victoria Park Chester Le,117,42,M1W 2N5,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318220.845,4850689.277,-79.333027,43.7980523
+1698,90060,218,Victoria Park Chester Le,117,42,M1W 2N5,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318220.845,4850689.277,-79.333027,43.7980523
+1699,90061,218,Victoria Park Chester Le,117,42,M1W 2N5,7,0,7,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318220.845,4850689.277,-79.333027,43.7980523
+1702,90064,218,Victoria Park Chester Le,117,42,M1W 2N5,11,0,11,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318220.845,4850689.277,-79.333027,43.7980523
+1703,5534,140,Wishing Well Manor,117,42,M1T 3P7,293,2,291,1975,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,319343.731,4848319.569,-79.319137,43.7767016
+1746,3496,76,Finch Birchmount,117,42,M1W 2C8,237,0,237,1969,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,320465.905,4850752.081,-79.305126,43.798574
+1749,3481,76,Finch Birchmount,117,42,M1T 2Z7,6,0,6,1969,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Sixplex,320599.66,4850651.981,-79.303467,43.7976702
+424,3514,80,Lawrence Orton,137,43,M1G 1R9,31,0,31,1970,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Low Rise Apt Bldg.,328512.071,4846876.353,-79.205306,43.7634756
+425,3515,80,Lawrence Orton,137,43,M1G 1R9,33,0,33,1970,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Low Rise Apt Bldg.,328577.926,4846893.162,-79.204487,43.7636248
+426,3516,80,Lawrence Orton,137,43,M1G 1S1,238,0,238,1970,High Rise,High Rise Apt. Bldg.Elevator,19,19 - Storey High Rise Apt. Bldg.,328631.854,4846914.233,-79.203816,43.7638127
+427,3242,81,Lawrence Susan,137,43,M1G 1R5,213,0,213,1969,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,328094.82,4846765.506,-79.210493,43.762491
+473,5522,129,Village Apartments,137,43,M1G 3S8,378,0,378,1971,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,326370.759,4848800.317,-79.231824,43.7808585
+2109,5538,144,Cedarbrae Manor,137,43,M1G 3T9,400,0,400,1977,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,327185.56,4846485.164,-79.221797,43.7599953
+2116,3518,49,Greenbrae Circuit 1,137,43,M1H 1R3,6,0,6,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326360.716,4846441.371,-79.232042,43.7596254
+2118,90108,49,Greenbrae Circuit 1,137,43,M1H 1R3,6,0,6,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326428.208,4846489.236,-79.231202,43.7600543
+2120,90129,49,Greenbrae Circuit 1,137,43,M1H 1P6,6,0,6,1964,Towns & Wkups,Townhouse Multiplex,2,2- Storey Townhouse Multifam,326328.47,4846416.612,-79.232444,43.7594035
+432,4140,6,Mornelle Ellesmere,135,43,M1E 4R1,145,0,145,1971,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,329379.42,4849437.971,-79.194417,43.7865043
+433,4139,212,Mornelle Morningside,135,43,M1E 4P9,198,0,198,1971,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,329241.848,4849584.106,-79.196119,43.7878243
+413,4080,211,Kingston Galloway,136,43,M1E 2M9,10,0,10,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,329640.538,4846989.219,-79.191285,43.7644548
+414,4081,211,Kingston Galloway,136,43,M1E 2M9,10,0,10,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,329577.372,4846967.231,-79.19207,43.764259
+415,4082,211,Kingston Galloway,136,43,M1E 2M9,12,0,12,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,329559.382,4846934.848,-79.192295,43.7639681
+416,4083,211,Kingston Galloway,136,43,M1E 2M9,12,0,12,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,329519.453,4846870.201,-79.192794,43.7633875
+417,4084,211,Kingston Galloway,136,43,M1E 2M9,13,0,13,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,329540.992,4846903.666,-79.192525,43.763688
+418,4085,211,Kingston Galloway,136,43,M1E 2M9,13,0,13,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,329496.844,4846838.933,-79.193077,43.7631069
+419,4086,211,Kingston Galloway,136,43,M1E 2N1,419,0,419,1972,High Rise,High Rise Apt. Bldg.Elevator,20,20 - Storey High Rise Apt. Bldg.,329516.674,4846797.833,-79.192832,43.7627363
+420,4115,23,Lawrence Galloway,136,43,M1E 2R9,185,0,185,1972,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,329267.349,4847214.382,-79.19591,43.7664938
+421,4116,23,Lawrence Galloway,136,43,M1E 2S1,185,0,185,1972,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,329338.224,4847236.605,-79.195028,43.7666915
+1265,4847,357,Carlton St. (234-236),71,51,M5A 2L1,13,0,13,1890,Houses,House Semi-Detached Single Fam.,3,3 - Storey  Semi-Detached House - Multiplex  (hist),315363.356,4835825.966,-79.368828,43.6643105
+750,4956,420,Dundas Beverley,78,52,M5T 1J8,15,13,2,1916,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-Detached Multiplex,313364.542,4834764.222,-79.393628,43.6547794
+810,5962,714,The Esplanade (176),77,51,M5A 4H1,22,15,7,1982,Towns & Wkups,Townhouse Multifam.,2,2 - Storey Townhouse,315388.006,4834157.442,-79.368555,43.6492915
+614,5800,430,Frankel Lambert 1 Townhouses,94,13,M6G 3X9,9,6,3,1980,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,310747.367,4836686.936,-79.426053,43.6721117
+2065,3999,46,Pelham Park Gardens,91,12,M6N 1A8,352,0,352,1968,High Rise,High Rise Apt. Bldg.Elevator,17,17 - Storey High Rise Apt. Bldg.,308187.607,4836369.289,-79.457798,43.6692683
+220,4262,200,Lawrence Heights,31,32,M6A 2P1,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,308999.315,4841970.356,-79.44769,43.7196811
+224,4277,200,Lawrence Heights,31,32,M6A 2P1,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,308999.315,4841970.356,-79.44769,43.7196811
+2125,3190,21,Kingston Rd. (3190),123,43,M1M 1P5,6,0,6,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,326700.045,4843172.125,-79.227961,43.7301883
+2127,3192,21,Kingston Rd. (3190),123,43,M1M 1P5,7,0,7,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326700.045,4843172.125,-79.227961,43.7301883
+2128,3193,21,Kingston Rd. (3190),123,43,M1M 1P5,7,0,7,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326700.045,4843172.125,-79.227961,43.7301883
+2129,3194,21,Kingston Rd. (3190),123,43,M1M 1P5,13,0,13,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326700.045,4843172.125,-79.227961,43.7301883
+2130,3195,21,Kingston Rd. (3190),123,43,M1M 1P5,14,0,14,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326700.045,4843172.125,-79.227961,43.7301883
+2131,3196,21,Kingston Rd. (3190),123,43,M1M 1P5,13,0,13,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326700.045,4843172.125,-79.227961,43.7301883
+2132,3197,21,Kingston Rd. (3190),123,43,M1M 1P5,15,0,15,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326700.045,4843172.125,-79.227961,43.7301883
+2112,3477,82,Gilder Drive,138,41,M1K 4P8,190,0,190,1970,High Rise,High Rise Apt. Bldg.Elevator,18,18 - Storey High Rise Apt. Bldg.,324413.785,4843839.993,-79.256316,43.7362636
+2114,3476,82,Gilder Drive,138,41,M1K 4P7,66,0,66,1970,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,324605.517,4843861.682,-79.253935,43.7364538
+2133,4075,70,McCowan Rd.  (400),138,43,M1J 1J5,198,0,198,1968,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,325631.774,4844382.137,-79.241172,43.741102
+2138,3153,43,McCowan Rd.  (410),138,43,M1J 1J4,6,0,6,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,325681.891,4844486.839,-79.240549,43.7420517
+2139,3154,43,McCowan Rd.  (410),138,43,M1J 1J4,8,0,8,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,325681.891,4844486.839,-79.240549,43.7420517
+2140,3155,43,McCowan Rd.  (410),138,43,M1J 1J4,13,0,13,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,325681.891,4844486.839,-79.240549,43.7420517
+2108,5627,107,Brimley Acres,127,43,M1P 2T9,200,1,199,1960,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,324868.554,4845948.7,-79.250592,43.7552327
+2142,4138,7,Midland Ave. (1201),127,41,M1K 4H4,30,0,30,1958,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,323872.424,4845044.512,-79.262994,43.7471201
+2107,5519,126,Adanac Apartments,139,43,M1M 2E8,306,4,302,1970,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,326777.047,4844337.194,-79.226958,43.7406731
+2110,3147,60,Eglinton Markham,139,43,M1J 2G9,103,0,103,1965,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,327389.337,4844565.871,-79.219346,43.7427134
+2111,3148,60,Eglinton Markham,139,43,M1J 2G8,161,0,161,1965,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,327332.807,4844555.63,-79.220049,43.7426229
+411,4117,72,Ellesmere Markham,137,43,M1G 3M5,180,0,180,1969,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,326516,4848467.109,-79.230033,43.777855
+412,4118,72,Ellesmere Markham,137,43,M1G 3M4,180,0,180,1969,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,326424.61,4848439.828,-79.231169,43.7776121
+422,3512,80,Lawrence Orton,137,43,M1G 1R9,15,0,15,1970,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Low Rise Apt Bldg.,328556.497,4846841.376,-79.204755,43.7631593
+517,5537,143,Sunrise Towers,43,54,M4A 2P7,330,0,330,1977,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,320700.892,4842186.871,-79.302458,43.7214717
+1033,4742,301,Balsam Ave. (9-11),63,55,M4E 3B3,6,1,5,1922,Houses,House Semi-Detached Multiplex,2,2 - Storey House -Sixplex,321821.913,4836462.618,-79.288725,43.6699221
+1034,4743,301,Balsam Ave. (9-11),63,55,M4E 3B3,6,2,4,1922,Houses,House Semi-Detached Multiplex,2,2 - Storey House -Sixplex,321826.761,4836447.594,-79.288665,43.6697868
+1035,5639,118,Beaches Lions Centennial,63,55,M4L 1R1,43,0,43,1967,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,320528.116,4836940.558,-79.304755,43.6742526
+1048,4744,303,Elmer Ave. (98),63,55,M4L 3R7,36,26,10,1955,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,320496.219,4836728.497,-79.305157,43.6723445
+1049,5575,371,Gerrard St. E. (2390),62,55,M4E 2E1,16,3,13,1991,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Low Rise Apt. Bldg.,321691.453,4838285.303,-79.290286,43.6863315
+1050,5632,112,Glen Stewart Acres,62,55,M4E 1S2,147,3,144,1962,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,321545.77,4837639.768,-79.292113,43.680524
+1063,5726,358,Kingston Rd. (320),62,55,M4L 1T7,36,21,15,1983,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,320321.163,4837000.094,-79.30732,43.6747928
+1066,5576,372,Kingston Rd. (520),62,55,M4L 3W8,108,27,81,1992,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,320713.024,4837385.748,-79.302449,43.6782558
+1068,5638,117,Kinsmen Manor,62,55,M4E 2E4,38,0,38,1967,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,321276.181,4838109.87,-79.295442,43.6847616
+1225,4853,362,Stephenson Ave. (111),62,55,M4C 1G2,10,2,8,1980,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,320659,4838297.281,-79.303092,43.6864616
+1226,4862,362,Stephenson Ave. (111),62,55,M4C 1G2,40,19,21,1980,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,320682.469,4838311.723,-79.3028,43.6865911
+1227,5700,351,Stephenson Ave. (139),62,55,M4C 1G2,18,11,7,1983,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,320709.291,4838309.919,-79.302468,43.6865743
+1228,5717,351,Stephenson Ave. (139),62,55,M4C 1G2,32,21,11,1983,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,320719.764,4838331.44,-79.302337,43.6867678
+1229,5718,351,Stephenson Ave. (139),62,55,M4C 1G2,38,21,17,1983,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,320731.173,4838330.8,-79.302196,43.6867618
+428,3522,215,Lawrence Valia,136,43,M1E 3W2,7,0,7,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,331126.337,4847713.69,-79.172796,43.7709249
+429,3523,215,Lawrence Valia,136,43,M1E 3W2,7,0,7,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,331126.337,4847713.69,-79.172796,43.7709249
+431,3525,215,Lawrence Valia,136,43,M1E 3W2,10,0,10,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,331126.337,4847713.69,-79.172796,43.7709249
+434,5530,136,Morningside Apartments,136,43,M1E 4S6,345,2,343,1974,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,330116.903,4847384.065,-79.18535,43.7679927
+437,4143,75,Morningside Coronation,136,43,M1E 2L5,18,0,18,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,330223.061,4847001.677,-79.184049,43.7645473
+439,4145,75,Morningside Coronation,136,43,M1E 2L6,16,0,16,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,330309.568,4847058.113,-79.182972,43.7650523
+474,5529,135,West Hill  Apartments,136,43,M1E 4T7,375,3,372,1974,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,329838.377,4847298.753,-79.188813,43.7672342
+1723,5646,178,Empringham Mews,132,42,M1B 3Z5,8,2,6,1983,Towns & Wkups,Townhouse,3,3 - Storey Townhouse,327959.767,4852288.648,-79.211933,43.8122095
+1724,5654,178,Empringham Mews,132,42,M1B 4A2,10,0,10,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327894.569,4852288.829,-79.212743,43.8122131
+1725,5655,178,Empringham Mews,132,42,M1B 4A4,8,0,8,1983,Towns & Wkups,Townhouse,3,3 - Storey Townhouse,327815.979,4852288.254,-79.21372,43.8122104
+1726,5663,178,Empringham Mews,132,42,M1B 3Z2,9,2,7,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,328043.92,4852263.709,-79.210888,43.8119823
+1728,5672,178,Empringham Mews,132,42,M1B 3Z6,9,1,8,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327965.507,4852288.043,-79.211862,43.8122038
+1729,90085,178,Empringham Mews,132,42,M1B 3Z2,10,0,10,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,328043.92,4852263.709,-79.210888,43.8119823
+1730,90086,178,Empringham Mews,132,42,M1B 3Z2,6,1,5,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,328043.92,4852263.709,-79.210888,43.8119823
+1731,90087,178,Empringham Mews,132,42,M1B 3Z2,7,0,7,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,328043.92,4852263.709,-79.210888,43.8119823
+286,4274,200,Lawrence Heights,31,32,M6A 2P2,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,309007.539,4842088.358,-79.447588,43.7207432
+1458,3647,40,DeMarco Boulevard,28,31,M6L 2W1,15,0,15,1955,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt Bldg.,305532.884,4840483.972,-79.490713,43.7063126
+1459,3648,40,DeMarco Boulevard,28,31,M6L 1C1,20,0,20,1955,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt Bldg.,305645.08,4840499.317,-79.489321,43.7064506
+1460,3649,40,DeMarco Boulevard,28,31,M6L 1C1,20,0,20,1955,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt Bldg.,305599.298,4840487.469,-79.489889,43.706344
+553,5444,205,Scarlett Manor,8,23,M9P 3V3,128,59,69,1994,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,302744.324,4839858.199,-79.525311,43.7006762
+559,4370,206,Scarlettwood,8,23,M9P 1T2,6,0,6,1963,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,303385.856,4838998.466,-79.517346,43.6929307
+560,4371,206,Scarlettwood,8,23,M9P 1T2,6,0,6,1963,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,303389.702,4839052.125,-79.517299,43.6934137
+563,4374,206,Scarlettwood,8,23,M9P 1T1,6,0,6,1963,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,303521.596,4839128.818,-79.515663,43.6941044
+564,4375,206,Scarlettwood,8,23,M9P 1T2,9,0,9,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303443.087,4839026.211,-79.516636,43.6931806
+566,4377,206,Scarlettwood,8,23,M9P 1T1,14,0,14,1963,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walkup Apartment Building,303494.335,4839036.572,-79.516001,43.693274
+568,4369,206,Scarlettwood,8,23,M9P 2P9,6,0,6,1963,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,303344.728,4839061.204,-79.517857,43.6934953
+569,4378,206,Scarlettwood,8,23,M9P 2R1,48,0,48,1963,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,303422.728,4839110.343,-79.516889,43.6939378
+210,5623,106,Westacres Extension,4,23,M9W 4C6,16,1,15,1960,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299216.106,4842546.125,-79.569114,43.7248537
+211,5624,106,Westacres Extension,4,23,M9W 4C5,16,1,15,1960,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299131.867,4842570.58,-79.57016,43.7250732
+212,5625,106,Westacres Extension,4,23,M9W 4C5,16,1,15,1960,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299143.28,4842533.625,-79.570018,43.7247406
+30,3888,47,Albion Shendale,5,23,M9W 3P1,16,0,16,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,300989.889,4842185.381,-79.547092,43.7216091
+31,3889,47,Albion Shendale,5,23,M9W 2B1,18,0,18,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,300943.634,4842241.505,-79.54767,43.7221227
+103,3907,30,Tandridge Crescent 1,5,23,,12,0,12,1965,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,301031.892,4843104.35,-79.54658,43.72989
+104,3908,30,Tandridge Crescent 1,5,23,,8,0,8,1965,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,301031.892,4843104.35,-79.54658,43.72989
+108,3912,30,Tandridge Crescent 1,5,23,,10,0,10,1965,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,301124.752,4842974.797,-79.545427,43.7287243
+109,3913,30,Tandridge Crescent 1,5,23,,12,0,12,1965,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,301124.752,4842974.797,-79.545427,43.7287243
+110,3914,30,Tandridge Crescent 1,5,23,,7,0,7,1965,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,301124.752,4842974.797,-79.545427,43.7287243
+112,3916,30,Tandridge Crescent 1,5,23,,12,0,12,1965,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,301124.752,4842974.797,-79.545427,43.7287243
+1461,5637,116,Downsview Acres,26,31,M3M 1A3,294,3,291,1966,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,304145.58,4842250.448,-79.50793,43.7222134
+1467,3650,17,Jane St. (2265),26,31,M3M 1A6,41,0,41,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,304018.129,4842856.285,-79.509513,43.7276669
+1471,5566,199,Roding Park Place,26,31,M3M 3G4,124,38,86,1993,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,305280.424,4842482.587,-79.493841,43.7242947
+546,4360,37,Dixington Crescent,6,23,M9P 2K4,7,0,7,1965,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,301464.583,4839490.981,-79.541186,43.6973661
+1463,3641,84,Jane Falstaff,28,31,M6L 2C9,221,0,221,1970,High Rise,High Rise Apt. Bldg.Elevator,19,19 - Storey High Rise Apt. Bldg.,304363.605,4841606.944,-79.505223,43.7164211
+822,4057,33,Blake Boultbee,69,55,M4J 1A5,15,0,15,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,317760.323,4836733.25,-79.339085,43.6724396
+1044,4073,91,Don Summerville,65,55,M4L 1E7,60,0,60,1969,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,319453.024,4836005.915,-79.318113,43.6658616
+2166,3182,85,Regent Park (North),72,51,M5A 2G6,71,0,71,1948,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,315631.421,4835581.889,-79.365509,43.6621098
+2183,3073,201,Regent Park (South),72,51,M5A 3M5,95,0,95,1957,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,316066.105,4835226.443,-79.360123,43.6588953
+1313,4835,336,South St. Jamestown 2,71,51,M4X 1G9,10,0,10,1880,Houses,House Semi-Detached Multiplex,2,2 - Storey Semi-detached House - Multiplex,315219.538,4836214.032,-79.370603,43.6678058
+1026,4865,380,Trefann Court,72,51,M5A 1T7,18,11,7,1979,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,315986.523,4834964.607,-79.361119,43.6565482
+1261,3902,66,Bleecker Street 1,74,51,M4X 1M1,301,0,301,1969,High Rise,High Rise Apt. Bldg.Elevator,21,21 - Storey High Rise Apt. Bldg.,314969.275,4836328.077,-79.373705,43.6688359
+2214,81637,494,Randolph Ave. (11),93,11,M6P 4G3,95,36,59,1994,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,308800.29,4835150.998,-79.450211,43.6582989
+0,4046,32,Atkinson Co-operative,78,14,M5T 2K9,10,0,10,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312854.605,4834179.432,-79.399959,43.6495217
+2009,90125,173,Cooper Mills Townhomes,114,11,M6S 4W6,12,6,6,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+20,4029,32,Atkinson Co-operative,78,14,M5T 2H9,11,0,11,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312893.767,4834223.7,-79.399473,43.6499197
+666,3007,59,Queensway Windermere,87,11,M6S 4V4,20,0,20,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+205,5606,101,Westacres,4,23,M9W 4C5,16,2,14,1957,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299124.802,4842662.972,-79.570248,43.7259048
+2021,3991,27,Humber Boulevard,111,12,M6N 2H6,215,0,215,1968,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,306244.381,4837386.836,-79.481892,43.6784336
+588,4741,172,Mabelle Place,14,22,M9A 5B1,128,56,72,1979,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,302478.099,4833670.075,-79.528585,43.6449745
+173,3736,26,Thistletown 2,2,23,M9V 3S5,6,0,6,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,297357.766,4844101.632,-79.592201,43.7388389
+198,3751,26,Thistletown 2,2,23,M9V 3R3,9,0,9,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297663.949,4843755.028,-79.588395,43.7357221
+42,3821,58,Finch Ardwick,22,31,M9M 1V7,25,0,25,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,300240.945,4845161.463,-79.556416,43.7484025
+60,3869,45,Kipling Mount Olive,2,23,M9V 2C6,20,0,20,1967,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,297939.812,4844926.198,-79.584982,43.7462582
+149,3721,210,Thistletown 1,2,23,M9V 3M5,8,0,8,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297903.926,4843607.864,-79.585411,43.7343912
+1230,5722,351,Stephenson Ave. (139),62,55,M4C 1G2,13,9,4,1983,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,320753.907,4838326.94,-79.301914,43.6867266
+1288,4808,316,South St. Jamestown 1,71,51,M4X 1A6,13,0,13,1890,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),315241.221,4835929.11,-79.37034,43.6652408
+95,69671,901,Queens Plate Dr. (900-910),1,23,M9W 6Z3,204,60,144,1994,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,296449.206,4842001.861,-79.603448,43.719929
+137,3703,210,Thistletown 1,2,23,M9V 3M6,7,0,7,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297974.303,4843485.687,-79.584536,43.7332921
+141,3709,210,Thistletown 1,2,23,M9V 3M6,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297914.656,4843559.339,-79.585277,43.7339545
+148,3717,210,Thistletown 1,2,23,M9V 3M6,10,0,10,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,298006.445,4843555.34,-79.584138,43.7339193
+153,90119,210,Thistletown 1,2,23,M9V 3M5,8,0,8,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297869.254,4843614.499,-79.585841,43.7344506
+105,3909,30,Tandridge Crescent 1,5,23,,20,0,20,1965,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,301031.892,4843104.35,-79.54658,43.72989
+1742,90098,178,Empringham Mews,132,42,M1B 4A2,7,1,6,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327894.569,4852288.829,-79.212743,43.8122131
+1690,90053,218,Victoria Park Chester Le,117,42,M1W 2M9,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318353.698,4850644.859,-79.331378,43.7976501
+423,3513,80,Lawrence Orton,137,43,M1G 1R9,20,0,20,1970,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Low Rise Apt Bldg.,328606.14,4846825.304,-79.20414,43.7630131
+430,3524,215,Lawrence Valia,136,43,M1E 3W2,10,0,10,1972,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,331126.337,4847713.69,-79.172796,43.7709249
+1566,3533,16,Canlish Road,126,41,M1P 4M9,10,0,10,1955,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,322383.875,4845280.055,-79.281469,43.7492766
+1067,5572,367,Kingston Rd. (530),62,55,M4L 1V4,90,18,72,1954,Low Rise,Low Rise Apt. Bldg.Elevator,3,3 - Storey Low Rise Apt. Bldg.,320757.097,4837387.866,-79.301902,43.6782739
+529,4106,208,Warden Woods,121,41,M1L 1N6,10,0,10,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322684.736,4840094.652,-79.277905,43.7025948
+1630,90073,48,Allenbury Gardens,47,33,M2J 3E1,11,0,11,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,317290.108,4848746.661,-79.344638,43.7805833
+1475,4384,41,Sheppard Magellan,25,31,M3L 1Y4,12,0,12,1962,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304001.074,4844075.157,-79.509727,43.7386384
+398,4298,31,Willowdale Avenue,51,32,M2N 5B4,10,0,10,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+1397,3812,97,Firgrove Crescent,25,31,M3N 2X6,30,0,30,1975,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303413.616,4845511.578,-79.517024,43.7515669
+1344,3580,25,Edgeley Village Driftwood,24,31,M3N 2P8,6,0,6,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,303456.964,4847092.901,-79.516489,43.7658011
+1381,3589,3,Jane Milo,24,31,M3N 2K4,164,0,164,1971,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,303162.909,4847028.675,-79.520141,43.7652223
+222,4269,200,Lawrence Heights,31,32,M6A 2P1,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,308999.315,4841970.356,-79.44769,43.7196811
+374,5614,102,Northacres Apts.,31,32,M6A 2N7,16,0,16,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309119.817,4841983.823,-79.446192,43.719793
+2141,3156,43,McCowan Rd.  (410),138,43,M1J 1J4,14,0,14,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,325681.891,4844486.839,-79.240549,43.7420517
+1062,4784,308,Hubbard Blvd. (42),63,55,M4E 1A3,27,13,14,1928,Towns & Wkups,Walkup Apartment Building,3,3-Storey Walk-Up Apt. Bldg.,321485.456,4836307.452,-79.292902,43.668533
+480,5517,124,McClain Park Apartments,122,41,M1N 1J4,350,0,350,1970,High Rise,High Rise Apt. Bldg.Elevator,17,17 - Storey High Rise Apt. Bldg.,324549.538,4839737.34,-79.254781,43.699331
+524,4097,208,Warden Woods,121,41,M1L 1N6,7,0,7,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322640.501,4840061.109,-79.278455,43.7022939
+1509,3927,50,Flemingdon Park,44,54,M3C 1E8,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318316.753,4841861.181,-79.332056,43.718587
+1528,3946,50,Flemingdon Park,44,54,M3C 1C2,10,0,10,1962,Towns & Wkups,Townhouse Multiplex,3,3-Storey Townhouse Sixplex,318614.234,4841669.926,-79.328369,43.7168599
+491,4344,1,O'Connor Drive,43,54,M4A 1A5,8,0,8,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320878.491,4841686.897,-79.300269,43.7169676
+1622,3616,48,Allenbury Gardens,47,33,M2J 2Z2,12,0,12,1965,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,317461.24,4848757.699,-79.342512,43.7806797
+1646,4324,39,Roywood Drive,45,33,M3A 2E8,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,318010.898,4846822.327,-79.33573,43.7632496
+1668,3508,79,Sheppard Birchmount 1,118,42,M1T 2G7,8,0,8,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,320667.272,4848971.045,-79.302676,43.7825385
+1478,4387,41,Sheppard Magellan,25,31,M3L 1Y4,20,0,20,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,304001.074,4844075.157,-79.509727,43.7386384
+407,4307,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+1388,3805,97,Firgrove Crescent,25,31,M3N 2W8,18,0,18,1975,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303417.474,4845624.541,-79.516976,43.7525837
+1420,3672,12,Sheppard Yatescastle,25,31,M3L 1Y7,12,0,12,1963,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304065.955,4844244.323,-79.508921,43.7401613
+1443,3763,44,Yorkwoods Village,25,31,M3N 1J1,9,0,9,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Fourplex,303947.961,4845172.226,-79.510385,43.7485047
+1249,5559,164,Moore Place,99,53,M4P 2Z4,185,1,184,1983,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,313661.101,4840771.193,-79.389854,43.7088453
+1360,3574,25,Edgeley Village Driftwood,24,31,M3N 2P9,14,0,14,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303620.684,4847445.937,-79.514456,43.7689792
+1376,3563,325,Edgeley Village Shoreham,24,31,M3N 1T4,29,0,29,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303339.097,4847674.627,-79.517955,43.7710371
+290,4237,200,Lawrence Heights,32,32,M6A 2N3,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309401.704,4841852.977,-79.442697,43.7186221
+371,5611,102,Northacres Apts.,32,32,M6A 2N4,16,0,16,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309408.574,4842029.496,-79.442611,43.720211
+284,4261,200,Lawrence Heights,31,32,M6A 2P2,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,308916.241,4842018.312,-79.448721,43.7201132
+1235,5469,405,Bathurst Eglinton,102,53,M5N 1G1,40,12,28,1941,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,310816.559,4839950.457,-79.42516,43.7014864
+986,4710,838,SHOP Houses CHU 12,68,55,M4K 1H1,6,0,6,1910,Houses,House Detached Multiplex,3,3 - Storey Detached House -Sixplex,317411.671,4836871.461,-79.343406,43.6736897
+1054,90111,304,Greenwood Walpole,65,55,M4L 3W5,16,8,8,1987,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318667.171,4837019.297,-79.327832,43.6749982
+1029,4914,380,Trefann Court,72,51,M5A 3E8,8,5,3,1979,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,315943.294,4835050.399,-79.361653,43.6573211
+2211,80312,923,Oak St. (1),72,51,M5A 0A7,17,0,17,2011,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,315748.165,4835470.98,-79.36406,43.6611012
+1314,4836,336,South St. Jamestown 2,71,51,M4X 1G9,10,0,10,1880,Houses,House Row Multiplex,2,2 - Storey Row House - Multiplex,315227.364,4836208.935,-79.370506,43.6677598
+1009,3244,88,Moss Park,73,51,M5A 1W5,300,1,299,1964,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,315513.091,4834942.867,-79.366988,43.6563595
+617,5824,434,Frankel Lambert 2 Melita Cr.(470),94,13,M6G 3Y1,37,21,16,1980,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,310698.713,4836703.584,-79.426656,43.672262
+2056,5535,141,Louise Towers,106,13,M6C 3Z6,99,0,99,1977,High Rise,High Rise Apt. Bldg.Elevator,9,9 - Storey High Rise Apt. Bldg.,311072.831,4838093.652,-79.422001,43.6847713
+561,4372,206,Scarlettwood,8,23,M9P 1T1,6,0,6,1963,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,303502.058,4838990.682,-79.515905,43.6928609
+1763,3495,76,Finch Birchmount,117,42,M1T 2Z7,11,0,11,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320599.66,4850651.981,-79.303467,43.7976702
+229,4203,200,Lawrence Heights,32,32,M6A 2M5,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309380.965,4842274.361,-79.442951,43.7224152
+2192,74473,334,Rivertowne,70,55,M4M 2S7,34,0,34,2010,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,316658.571,4835542.325,-79.352774,43.661738
+779,5504,495,Larch St. (15),78,52,M5T 3J6,22,9,13,1993,Towns & Wkups,Stacked Townhouse Duplex,3,3 - Storey Stacked Townhouse,313094.595,4834515.386,-79.396979,43.652543
+17,4032,32,Atkinson Co-operative,78,14,M5T 2H6,7,0,7,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312944.49,4834223.103,-79.398844,43.6499138
+562,4373,206,Scarlettwood,8,23,M9P 1T1,6,0,6,1963,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,303505.303,4839152.988,-79.515865,43.6943219
+102,3906,30,Tandridge Crescent 1,5,23,,9,0,9,1965,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,301031.892,4843104.35,-79.54658,43.72989
+107,3911,30,Tandridge Crescent 1,5,23,,7,0,7,1965,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,301031.892,4843104.35,-79.54658,43.72989
+111,3915,30,Tandridge Crescent 1,5,23,,6,0,6,1965,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,301124.752,4842974.797,-79.545427,43.7287243
+709,5943,479,Wales Casimir,78,14,M5T 1J3,6,5,1,1982,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,312501.597,4834530.236,-79.40433,43.6526829
+786,5904,477,Sullivan St. (11),78,52,M5T 1B8,14,13,1,1923,Towns & Wkups,Townhouse,2,2 - Storey Townhouse (confirm),313328.234,4834382.88,-79.394085,43.6513474
+795,5978,721,Scadding Ave. (15),77,51,M5A 4G6,16,10,6,1982,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,315573.148,4833999.48,-79.366263,43.6478669
+606,5777,410,Brunswick Howland Albany,95,14,M5R 3B3,6,6,0,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse (part of 6 unit bldg),312115.28,4836032.579,-79.409098,43.6662098
+788,5744,401,Bishop Tutu Blvd. (25),82,14,M5V 2Z8,8,1,7,1987,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312849.768,4832651.029,-79.400042,43.6357646
+2059,3992,46,Pelham Park Gardens,91,12,M6N 1A6,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,308152.551,4836208.168,-79.458234,43.667818
+2062,3994,46,Pelham Park Gardens,91,12,M6N 1A7,11,0,11,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,308187.43,4836297.09,-79.457801,43.6686183
+2093,5037,470,Symington Place,91,12,M6N 4Y5,14,5,9,1978,Towns & Wkups,Townhouse,3,3 - Storey Townhouse (confirm),308425.241,4836645.383,-79.45485,43.6717524
+3,4042,32,Atkinson Co-operative,78,14,M5T 1H4,24,0,24,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312912.598,4834510.008,-79.399235,43.6524966
+9,4041,32,Atkinson Co-operative,78,14,M5T 2J5,14,0,14,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312912.142,4834437.94,-79.399242,43.6518478
+2215,82319,859,Dan Leckie Way (150),77,14,M5V 0C9,427,289,138,2012,High Rise,High Rise Apt. Bldg.Elevator,41,41 - Storey High Rise Apt. Bldg.,312982.863,4833086.51,-79.398386,43.6396831
+603,5762,410,Brunswick Howland Albany,95,14,M5R 3C2,6,5,1,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse (part of 6 unit bldg),312045.251,4836010.504,-79.409967,43.6660118
+604,5768,410,Brunswick Howland Albany,95,14,M5R 2Y9,6,3,3,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse (part of 6 unit bldg),312206.624,4836055.606,-79.407965,43.6664162
+1247,5543,149,McMurrich Place,95,53,M5R 3M3,128,0,128,1980,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,313757.068,4836802.752,-79.388729,43.673124
+2045,4063,65,Davenport Rd. (250),95,53,M5R 1J8,460,10,450,1968,High Rise,High Rise Apt. Bldg.Elevator,25,25 - Storey High Rise Apt. Bldg.,312988.295,4836993.517,-79.398259,43.6748505
+2049,5857,445,Huron Madison,95,53,M5R 2R3,6,5,1,1910,Houses,Low Rise Apt.Bldg  & House,3,3 - Storey Apt. Bldg. & 3-Storey Houses,312659.125,4836280.641,-79.402351,43.6684371
+2050,5858,445,Huron Madison,95,53,M5R 2R3,6,5,1,1885,Houses,Low Rise Apt.Bldg  & House,3,3 - Storey Apt. Bldg. & 3-Storey Houses,312655.228,4836288.869,-79.402399,43.6685113
+2053,5861,445,Huron Madison,95,53,M5R 2S2,7,5,2,1890,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-detached House - Multiplex (hist),312610.974,4836261.294,-79.402948,43.6682635
+2054,5862,445,Huron Madison,95,53,M5R 2S2,12,7,5,1889,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-detached House - Multiplex (hist),312636.214,4836270.93,-79.402635,43.66835
+610,5902,476,Davenport Rd.  (1087),94,13,M6G 2C3,9,6,3,1986,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,310542.859,4836964.929,-79.428586,43.6746157
+613,5794,430,Frankel Lambert 1 Townhouses,94,13,M6G 2A3,6,3,3,1979,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,310680.201,4836862.7,-79.426884,43.6736944
+703,4709,835,SHOP Houses CHU 08,93,13,M6H 3A6,6,0,6,1989,Houses,House Semi-Detached Multiplex,2,2 - Storey House -Sixplex,310062.145,4836631.444,-79.434551,43.6716174
+704,5569,196,The Rankin Apartments,93,11,M6P 4E4,176,0,176,1992,High Rise,High Rise Apt. Bldg.Elevator,9,9 - Storey High Rise Apt. Bldg.,309108.405,4835149.792,-79.44639,43.6582865
+705,5570,196,The Rankin Apartments,93,11,M6P 4E2,121,61,60,1992,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,309135.503,4835156.725,-79.446054,43.6583487
+711,5759,404,Bathurst Adelaide,82,14,M6J 3R8,150,107,43,1983,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,312554.891,4833630.519,-79.403683,43.6445845
+787,5743,401,Bishop Tutu Blvd. (25),82,14,M5V 2Z9,119,41,78,1987,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,312864.436,4832647.614,-79.39986,43.6357337
+789,5752,401,Bishop Tutu Blvd. (25),82,14,M5V 2Z8,35,10,25,1987,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312783.26,4832639.576,-79.400866,43.6356622
+793,5950,482,Queens Quay West (679),82,14,M5V 3A9,106,35,71,1988,Mid Rise,Mid Rise Apt. Bldg. & Towns.,6,6 -  Storey  Mid Rise Apt. Bldg and Townhouses,312854.726,4832511.104,-79.399983,43.634505
+2058,3997,46,Pelham Park Gardens,91,12,M6N 2Y9,19,0,19,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,308151.2,4836225.695,-79.458251,43.6679758
+16,4031,32,Atkinson Co-operative,78,14,M5T 2H6,6,0,6,1968,Towns & Wkups,Townhouse Sixplex,3,3 - Storey Townhouse,312944.49,4834223.103,-79.398844,43.6499138
+21,4034,32,Atkinson Co-operative,78,14,M5T 2H7,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312877.39,4834211.64,-79.399676,43.6498114
+660,3001,59,Queensway Windermere,87,11,M6S 4V4,14,0,14,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+665,3006,59,Queensway Windermere,87,11,M6S 4V4,18,0,18,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+2004,90083,173,Cooper Mills Townhomes,114,11,M6S 4W6,14,12,2,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+2006,90122,173,Cooper Mills Townhomes,114,11,M6S 4W6,15,11,4,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+2007,90123,173,Cooper Mills Townhomes,114,11,M6S 4W6,15,9,6,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+2011,90127,173,Cooper Mills Townhomes,114,11,M6S 4W6,8,3,5,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+2012,4019,67,Dundas Gooch,114,11,M6S 2T6,132,0,132,1972,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,304843.771,4835924.809,-79.499262,43.6652744
+2013,4020,67,Dundas Gooch,114,11,M6S 2T5,153,0,153,1972,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,304881.171,4835935.439,-79.498799,43.6653702
+659,3000,59,Queensway Windermere,87,11,M6S 4V4,16,0,16,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+661,3002,59,Queensway Windermere,87,11,M6S 4V4,16,0,16,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+662,3003,59,Queensway Windermere,87,11,M6S 4V4,14,0,14,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+664,3005,59,Queensway Windermere,87,11,M6S 4V4,20,0,20,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+667,3008,59,Queensway Windermere,87,11,M6S 4V4,20,0,20,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+620,4053,83,High Park Quebec,88,11,M6P 2S2,439,0,439,1969,High Rise,High Rise Apt. Bldg.Elevator,24,24 - Storey High Rise Apt. Bldg.,307415.157,4834958.018,-79.467384,43.6565678
+811,5963,714,The Esplanade (176),77,51,M5A 4H3,61,41,20,1982,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,315394.78,4834233.377,-79.368469,43.6499749
+812,5964,714,The Esplanade (176),77,51,M5A 4H2,219,161,58,1982,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,315435.409,4834128.066,-79.367968,43.6490263
+813,6008,727,The Esplanade (55),77,51,M5E 1V2,166,126,40,1983,High Rise,High Rise Apt. Bldg.Elevator,12,8 - St. Apt. Bldg. (blt over a 4-St.garage),314890.596,4833814.598,-79.374727,43.6462124
+305,4272,200,Lawrence Heights,31,32,M6A 2N9,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,308844.058,4842157.923,-79.449616,43.7213702
+228,4202,200,Lawrence Heights,32,32,M6A 2M5,6,0,6,1957,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,309467.725,4842205.851,-79.441875,43.721798
+233,4215,200,Lawrence Heights,32,32,M6A 2M5,6,0,6,1957,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,309427.063,4842193.752,-79.44238,43.7216893
+242,4206,200,Lawrence Heights,32,32,M6A 2M6,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309233.987,4842220.818,-79.444776,43.7219341
+2197,80062,334,Rivertowne,70,55,M4M 2S6,30,14,16,2011,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,316710.204,4835344.713,-79.352135,43.6599498
+835,5675,302,Chatham Ave. (195-203),69,55,M4J 1K8,12,8,4,1982,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,318198.457,4837569.107,-79.333631,43.6799559
+1061,6009,204,Hanson House,64,55,M4C 5S5,48,0,48,1993,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,319160.021,4837546.269,-79.321705,43.6797322
+2169,3159,85,Regent Park (North),72,51,M5A 3P7,8,0,8,1948,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,316200.371,4835502.085,-79.358456,43.661383
+2180,3160,85,Regent Park (North),72,51,M5A 3K3,8,0,8,1948,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,316043.703,4835460.407,-79.3604,43.6610102
+2186,3056,201,Regent Park (South),72,51,M5A 1X7,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,316168.75,4835229.589,-79.358854,43.6589306
+2205,80310,922,Sackville St. (246),72,51,M5A 3M2,14,0,14,2011,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,315683.114,4835254.516,-79.364871,43.6591537
+995,5367,702,Dan Harrison Complex,73,51,M5A 2R9,18,0,18,1900,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-Detached Multiplex,315191.08,4835235.83,-79.370975,43.6590012
+607,4922,413,Campbell Antler,93,11,M6P 4B9,88,61,27,1979,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,308940.887,4835847.869,-79.448462,43.6645713
+2016,3986,27,Humber Boulevard,111,12,M6N 2H6,7,0,7,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,306225.967,4837436.218,-79.48212,43.6788781
+164,3735,26,Thistletown 2,2,23,M9V 3S5,6,0,6,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,297386.743,4844114.945,-79.591841,43.738959
+174,3745,26,Thistletown 2,2,23,M9V 3S5,7,0,7,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297391.834,4844083.227,-79.591778,43.7386736
+39,3818,58,Finch Ardwick,22,31,M9M 1V7,6,0,6,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,300263.403,4845159.345,-79.556138,43.7483836
+56,3864,45,Kipling Mount Olive,2,23,M9V 2C6,11,0,11,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297809.956,4844824.168,-79.586593,43.7453386
+585,6078,194,Griggs Manor 2,17,22,M8V 3Y4,100,2,98,1992,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,305111.3,4830450.134,-79.495948,43.6159946
+565,4376,206,Scarlettwood,8,23,M9P 1T1,14,0,14,1963,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walkup Apartment Building,303482.015,4839086.141,-79.516153,43.6937201
+113,3917,54,Tandridge Crescent 2,5,23,M9W 2N9,221,0,221,1967,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,301020.19,4842993.242,-79.546725,43.7288898
+1464,3642,84,Jane Falstaff,28,31,M6L 2C8,224,0,224,1970,High Rise,High Rise Apt. Bldg.Elevator,19,19 - Storey High Rise Apt. Bldg. & Daycare Centre-10 Falstaff Ave.,304402.361,4841583.044,-79.504742,43.716206
+1741,90097,178,Empringham Mews,132,42,M1B 4A2,6,0,6,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327894.569,4852288.829,-79.212743,43.8122131
+1680,3972,218,Victoria Park Chester Le,117,42,M1W 2N4,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318241.522,4850848.659,-79.332766,43.7994865
+1700,90062,218,Victoria Park Chester Le,117,42,M1W 2N5,8,0,8,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318220.845,4850689.277,-79.333027,43.7980523
+2122,3520,100,Greenbrae Circuit 2,137,43,M1H 1R2,128,0,128,1970,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,326550.384,4846462.077,-79.229686,43.7598063
+441,3521,213,Morningside Ling,136,43,M1E 3E5,99,0,99,1972,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,330144.859,4847285.775,-79.185007,43.767107
+545,5634,119,Woodland Acres South,121,41,M1L 1P1,168,2,166,1964,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,322554.003,4840204.75,-79.279524,43.7035889
+1573,5435,182,Gus Harris Place,124,41,M1K 5H6,150,2,148,1989,High Rise,High Rise Apt. Bldg.Elevator,17,17 - Storey High Rise Apt. Bldg.,324176.346,4843503.962,-79.259276,43.7332452
+1753,3485,76,Finch Birchmount,117,42,M1T 2Z7,6,0,6,1969,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Sixplex,320599.66,4850651.981,-79.303467,43.7976702
+1758,3490,76,Finch Birchmount,117,42,M1T 2Z7,7,0,7,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320599.66,4850651.981,-79.303467,43.7976702
+1762,3494,76,Finch Birchmount,117,42,M1T 2Z7,10,0,10,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320599.66,4850651.981,-79.303467,43.7976702
+1676,3968,218,Victoria Park Chester Le,117,42,M1W 2M9,6,0,6,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,318379.839,4850593.352,-79.331054,43.797186
+2117,90107,49,Greenbrae Circuit 1,137,43,M1H 1P6,6,0,6,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,326267.844,4846376.095,-79.233198,43.7590406
+438,4144,75,Morningside Coronation,136,43,M1E 2L5,28,0,28,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,330217.887,4846940.838,-79.184117,43.7639998
+1727,5664,178,Empringham Mews,132,42,M1B 3Z7,8,0,8,1983,Towns & Wkups,Townhouse,3,3 - Storey Townhouse,327983.8,4852286.712,-79.211634,43.8121913
+2113,3475,82,Gilder Drive,138,41,M1K 4P7,66,0,66,1970,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,324545.484,4843883.623,-79.25468,43.7366529
+1481,3141,63,Agnes MacPhail,61,54,M4C 2L7,10,0,10,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,320728.383,4839317.999,-79.302201,43.6956479
+522,4094,208,Warden Woods,121,41,M1L 1N6,6,0,6,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,322669.477,4840069.839,-79.278096,43.7023718
+523,4096,208,Warden Woods,121,41,M1L 1N6,7,0,7,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322599.637,4840087.856,-79.278961,43.7025356
+527,4103,208,Warden Woods,121,41,M1L 1N7,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322520.275,4840017.94,-79.279948,43.7019082
+535,4093,208,Warden Woods,121,41,M1L 3V6,6,0,6,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,322605.284,4839832.554,-79.2789,43.7002375
+539,4107,208,Warden Woods,121,41,M1L 3V6,11,0,11,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322532.097,4839828.768,-79.279808,43.7002051
+1648,4326,39,Roywood Drive,45,33,M3A 2E9,24,0,24,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,318050.302,4846676.536,-79.335245,43.7619366
+1661,3501,79,Sheppard Birchmount 1,118,42,M1T 2G7,6,0,6,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,320667.272,4848971.045,-79.302676,43.7825385
+1665,3505,79,Sheppard Birchmount 1,118,42,M1T 2G7,7,0,7,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,320667.272,4848971.045,-79.302676,43.7825385
+1669,3509,79,Sheppard Birchmount 1,118,42,M1T 2G7,9,0,9,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,320667.272,4848971.045,-79.302676,43.7825385
+386,3591,36,Leslie Finch,49,33,M2H 3B6,53,0,53,1973,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,315341.584,4849917.437,-79.368823,43.791152
+1633,4317,20,Leslie Nymark,52,33,M2J 4K4,13,0,13,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315524,4848247.552,-79.366589,43.7761182
+1433,3768,44,Yorkwoods Village,25,31,M3N 2M2,15,0,15,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Fiveplex,303834.115,4845274.758,-79.511802,43.749436
+1446,3773,44,Yorkwoods Village,25,31,M3N 1J4,19,0,19,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Fiveplex,303853.296,4845203.564,-79.511563,43.7487953
+1341,3564,25,Edgeley Village Driftwood,24,31,M3N 2P7,9,0,9,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey  Townhouse Apts. (first flr: stores),303502.23,4847273.177,-79.515927,43.7674239
+244,4210,200,Lawrence Heights,32,32,M6A 2M6,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309312.015,4842250.745,-79.443807,43.722203
+270,4212,200,Lawrence Heights,32,32,M6A 2M2,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309391.559,4842368.335,-79.442819,43.723261
+276,4216,200,Lawrence Heights,32,32,M6A 2M4,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309472.89,4842169.995,-79.441811,43.7214752
+279,4228,200,Lawrence Heights,32,32,M6A 2M4,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309449.975,4842060.815,-79.442097,43.7204926
+356,4205,200,Lawrence Heights,32,32,M6A 2L8,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309358.881,4842341.308,-79.443225,43.7230179
+2041,6079,195,Silverthorn Place,110,12,M6M 5G2,207,1,206,1990,High Rise,High Rise Apt. Bldg.Elevator,9,9 - Storey High Rise Apt. Bldg.,306987.646,4837812.192,-79.472673,43.6822607
+2171,3179,85,Regent Park (North),72,51,M5A 3S8,53,0,53,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,316143.84,4835667.148,-79.359154,43.6628696
+2177,3171,85,Regent Park (North),72,51,M5A 3K3,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,316017.373,4835616.37,-79.360723,43.6624145
+2202,76366,922,Sackville St. (246),72,51,M5A 3S4,61,15,46,2009,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,315804.099,4835383.016,-79.363372,43.6603172
+1007,69252,191,George St. (291),73,51,M5A 2N2,132,0,132,1986,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,314988.482,4835167.439,-79.373488,43.6583885
+1017,4738,383,Sackville St. (123),72,51,M5A 3E8,20,8,12,1985,Houses,House Semi-Detached Multiplex,3,3 - Storey Detached Multiplex,315953.471,4835024.718,-79.361527,43.6570898
+2044,5642,174,Blake Towers,106,13,M6C 4A2,51,29,22,1983,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,311052.811,4838177.827,-79.422248,43.685529
+1262,3903,66,Bleecker Street 1,74,51,M4X 1M2,327,0,327,1969,High Rise,High Rise Apt. Bldg.Elevator,24,24 - Storey High Rise Apt. Bldg.,314915.151,4836389.54,-79.374375,43.6693899
+29,69496,804,Murray St. (2),78,52,M5T 1T7,91,0,91,1961,High Rise,,8,8-Storey Apartment Building,313581.33,4834933.378,-79.390938,43.6562993
+775,5495,488,John St. (190),78,52,M5T 3E5,26,10,16,1992,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,313506.048,4834341.234,-79.391881,43.6509704
+777,5497,495,Larch St. (15),78,52,M5T 3J5,11,3,8,1993,Towns & Wkups,Walkup Apartment Building,3,3-Storey Walk-Up Apt. Bldg.,313100.214,4834501.899,-79.396909,43.6524215
+797,5988,721,Scadding Ave. (15),77,51,M5A 4E9,251,165,86,1982,High Rise,High Rise Apt. Bldg.Elevator,9,9 - Storey High Rise Apt. Bldg.,315530.851,4834080.659,-79.366785,43.6485982
+612,5787,430,Frankel Lambert 1 Townhouses,94,13,M6G 3X1,7,5,2,1980,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,310709.797,4836839.136,-79.426517,43.673482
+2101,5075,470,Symington Place,91,12,M6N 4Y4,7,5,2,1978,Towns & Wkups,Townhouse,3,3 - Storey Townhouse (confirm),308440.851,4836595.85,-79.454657,43.6713065
+12,4043,32,Atkinson Co-operative,78,14,M5T 2J4,18,0,18,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312956.642,4834331.215,-79.398689,43.6508782
+26,4048,32,Atkinson Co-operative,78,14,M5T 2H9,13,0,13,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312891.906,4834235.342,-79.399496,43.6500245
+663,3004,59,Queensway Windermere,87,11,M6S 4V4,16,0,16,1973,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,307249.673,4832871.637,-79.469445,43.6377882
+735,5568,189,Springhurst Manor,85,11,M6K 3K5,59,0,59,1992,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,309814.512,4832749.203,-79.437658,43.6366736
+208,5621,106,Westacres Extension,4,23,M9W 4C6,16,0,16,1960,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299209.041,4842584.711,-79.569202,43.725201
+591,4070,62,West Mall,13,22,M9C 3S5,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,299015.105,4834561.098,-79.571523,43.6529775
+194,3737,26,Thistletown 2,2,23,M9V 3R3,6,0,6,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,297593.936,4843975.725,-79.589267,43.737708
+98,5674,180,Rowntree Manor,3,23,M9V 5C2,237,172,65,1984,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,299388.901,4844625.794,-79.566991,43.7435749
+1508,3926,50,Flemingdon Park,44,54,M3C 1E8,7,0,7,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318264.771,4841842.835,-79.332702,43.7184228
+1527,3945,50,Flemingdon Park,44,54,M3C 1C2,10,0,10,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318551.875,4841675.192,-79.329143,43.7169085
+479,5513,120,Centennial Apartments,43,54,M4A 1A1,16,0,16,1967,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,320554.944,4841548.061,-79.304288,43.7157247
+1621,3615,48,Allenbury Gardens,47,33,M2J 2Z2,10,0,10,1965,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,317315.053,4848746.235,-79.344328,43.780579
+1645,4323,39,Roywood Drive,45,33,M3A 2E8,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,317965.423,4846837.988,-79.336295,43.7633914
+1537,5441,188,Sanderling Place,42,33,M3C 3R2,90,2,88,1990,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,316954.747,4843561.308,-79.348921,43.7339142
+2199,75083,809,Sheppard Ave. W. (1900),25,31,M3L 1Y7,27,0,27,2008,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,304001.81,4844230.158,-79.509718,43.7400337
+405,4305,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+1385,5525,131,Arleta Manor,25,31,M3L 2E3,171,3,168,1972,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,304707.169,4844553.048,-79.500961,43.7429406
+1400,3816,42,Jane Firgrove,25,31,M3N 2B8,7,0,7,1971,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303231.666,4845611.089,-79.519283,43.7524623
+1436,3776,44,Yorkwoods Village,25,31,M3N 2M2,15,0,15,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,303713.867,4845430.336,-79.513295,43.7508362
+1454,3789,44,Yorkwoods Village,25,31,M3N 1J1,12,0,12,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303996.266,4845097.226,-79.509785,43.7478297
+1343,3579,25,Edgeley Village Driftwood,24,31,M3N 2P8,6,0,6,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,303428.362,4847068.748,-79.516844,43.7655836
+1354,3568,25,Edgeley Village Driftwood,24,31,M3N 2P9,7,0,7,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303777.739,4847395.469,-79.512506,43.7685251
+1016,5723,356,Pembroke St. (21-25),73,51,M5A 2N6,8,2,6,1979,Houses,House Single Fam.,4,4 - Storey House Single Fam.,315144.44,4835003.9,-79.371558,43.6569143
+1027,4883,380,Trefann Court,72,51,M5A 1V2,18,9,9,1979,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,316218.185,4835029.24,-79.358245,43.6571264
+619,5842,434,Frankel Lambert 2 Melita Cr.(470),94,13,M6G 3Y3,15,10,5,1980,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,310700.944,4836710.554,-79.426628,43.6723247
+706,5919,479,Wales Casimir,78,14,M5T 2P6,10,8,2,1982,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,312548.837,4834502.767,-79.403745,43.6524352
+55,3863,45,Kipling Mount Olive,2,23,M9V 2C6,11,0,11,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297921.261,4844856.853,-79.585212,43.7456339
+58,3867,45,Kipling Mount Olive,2,23,M9V 2C6,13,0,13,1967,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,298010.482,4844937.24,-79.584105,43.7463583
+59,3868,45,Kipling Mount Olive,2,23,M9V 2C6,20,0,20,1967,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall Multifam,297765.346,4844906.322,-79.587148,43.7460777
+61,3859,45,Kipling Mount Olive,2,23,M9V 3G1,9,0,9,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297718.527,4844890.421,-79.58773,43.7459341
+62,3865,45,Kipling Mount Olive,2,23,M9V 3G1,11,0,11,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297749.887,4844858.178,-79.58734,43.7456441
+96,5635,114,Robert J. Smith Apartments,2,23,M9V 1V1,221,2,219,1965,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid Rise Apt. Bldg.,298266.007,4844047.228,-79.580925,43.7383578
+97,5636,114,Robert J. Smith Apartments,2,23,M9V 1V3,194,4,190,1965,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,298273.543,4843963.329,-79.58083,43.7376027
+128,3694,210,Thistletown 1,2,23,M9V 3M5,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,297787.048,4843574.365,-79.586861,43.7340886
+130,3696,210,Thistletown 1,2,23,M9V 3M7,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,297829.634,4843546.356,-79.586332,43.7338368
+131,3697,210,Thistletown 1,2,23,M9V 3M5,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,297989.473,4843639.104,-79.584349,43.7346731
+132,3698,210,Thistletown 1,2,23,M9V 3M5,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,297961.673,4843689.918,-79.584695,43.7351303
+134,3700,210,Thistletown 1,2,23,M9V 3M5,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,297859.869,4843667.544,-79.585959,43.734928
+135,3701,210,Thistletown 1,2,23,M9V 3M6,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,297966.699,4843541.842,-79.584631,43.7337975
+136,3702,210,Thistletown 1,2,23,M9V 3M6,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Fiveplex,297860.331,4843537.083,-79.585951,43.7337537
+138,3705,210,Thistletown 1,2,23,M9V 3M6,7,0,7,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297974.221,4843587.897,-79.584538,43.7342121
+139,3706,210,Thistletown 1,2,23,M9V 3M5,7,0,7,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297786.847,4843626.232,-79.586865,43.7345554
+140,3707,210,Thistletown 1,2,23,M9V 3M5,7,0,7,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297845.367,4843611.576,-79.586138,43.734424
+144,3713,210,Thistletown 1,2,23,M9V 3M8,9,0,9,1966,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,297811.756,4843458.673,-79.586553,43.7330474
+145,3714,210,Thistletown 1,2,23,M9V 3M8,9,0,9,1966,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,297788.571,4843429.799,-79.586841,43.7327873
+146,3715,210,Thistletown 1,2,23,M9V 3M8,9,0,9,1966,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,297803.506,4843489.966,-79.586656,43.733329
+151,90120,210,Thistletown 1,2,23,M9V 3M6,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297880.14,4843553.783,-79.585706,43.7339042
+152,90121,210,Thistletown 1,2,23,M9V 3M5,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,298004.96,4843658.548,-79.584157,43.7348483
+156,3704,210,Thistletown 1,2,23,M9V 1N4,7,0,7,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297920.461,4843418.559,-79.585203,43.7326874
+157,3708,210,Thistletown 1,2,23,M9V 1N4,8,0,8,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297916.136,4843396.166,-79.585257,43.7324858
+158,3710,210,Thistletown 1,2,23,M9V 1N4,8,0,8,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297897.859,4843418.336,-79.585484,43.7326851
+159,3718,210,Thistletown 1,2,23,M9V 1N4,18,0,18,1966,Towns & Wkups,Townhouse Centre Hall Mulrifam.,3,3 - Storey Townhouse Centre Hall Multifam,298070.182,4843519.93,-79.583346,43.7336012
+1465,3643,84,Jane Falstaff,28,31,M6L 2E1,224,0,224,1970,High Rise,High Rise Apt. Bldg.Elevator,19,19 - Storey High Rise Apt. Bldg. & Community Centre - 50 Falstaff Ave.,304432.719,4841609.528,-79.504365,43.7164444
+1684,90047,218,Victoria Park Chester Le,117,42,M1W 2N4,11,0,11,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318258.14,4850817.67,-79.332561,43.7992073
+410,5518,125,Willowdale Manor,50,32,M2M 2E9,246,1,245,1970,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,312137.248,4849548.181,-79.408644,43.7878663
+185,3739,26,Thistletown 2,2,23,M9V 3E3,6,0,6,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,297707.327,4843774.054,-79.587857,43.7358938
+186,3740,26,Thistletown 2,2,23,M9V 3E3,6,0,6,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,297696.253,4843847.873,-79.587995,43.7365581
+187,3741,26,Thistletown 2,2,23,M9V 3E3,6,0,6,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,297663.529,4843949.85,-79.588403,43.7374757
+188,3742,26,Thistletown 2,2,23,M9V 3E3,7,0,7,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297622.434,4843986.378,-79.588914,43.7378041
+189,3747,26,Thistletown 2,2,23,M9V 3E3,7,0,7,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297701.58,4843817.432,-79.587929,43.7362842
+190,3750,26,Thistletown 2,2,23,M9V 3E3,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297683.316,4843890.49,-79.588157,43.7369416
+195,3738,26,Thistletown 2,2,23,M9V 3R3,6,0,6,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,297626.659,4843881.359,-79.58886,43.7368589
+196,3743,26,Thistletown 2,2,23,M9V 3R3,7,0,7,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297605.351,4843938.435,-79.589125,43.7373724
+197,3746,26,Thistletown 2,2,23,M9V 3R3,7,0,7,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297571.105,4843964.31,-79.589551,43.737605
+33,3823,29,Duncan Woods Drive,21,31,M9L 2E6,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,299367.98,4845861.422,-79.567263,43.7546971
+34,3824,29,Duncan Woods Drive,21,31,M9L 2E6,7,0,7,1966,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,299408.591,4845844.308,-79.566759,43.7545434
+35,3825,29,Duncan Woods Drive,21,31,M9L 2E6,7,0,7,1966,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,299360.437,4845884.629,-79.567357,43.7549059
+36,3826,29,Duncan Woods Drive,21,31,M9L 2E6,9,0,9,1966,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,299312.284,4845834.444,-79.567955,43.7544538
+2060,3996,46,Pelham Park Gardens,91,12,M6N 1A6,16,0,16,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,308216.019,4836229.324,-79.457447,43.6680082
+2061,3993,46,Pelham Park Gardens,91,12,M6N 1A7,11,0,11,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,308257.105,4836261.28,-79.456937,43.6682956
+2063,3995,46,Pelham Park Gardens,91,12,M6N 1A7,14,0,14,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,308240.727,4836332.072,-79.45714,43.668933
+2064,3998,46,Pelham Park Gardens,91,12,M6N 1A7,24,0,24,1968,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,308191.251,4836276.266,-79.457754,43.6684308
+2092,5031,470,Symington Place,91,12,M6N 4Y5,6,0,6,1978,Towns & Wkups,Townhouse,3,3 - Storey Townhouse (confirm),308498.918,4836643.594,-79.453936,43.671736
+2095,5055,470,Symington Place,91,12,M6N 4Y2,186,84,102,1978,High Rise,High Rise Apt. Bldg.Elevator,9,9 - Storey High Rise Apt. Bldg.,308498.716,4836548.304,-79.453939,43.6708783
+2096,5056,470,Symington Place,91,12,M6N 4Y4,11,8,3,1978,Towns & Wkups,Townhouse,3,3 - Storey Townhouse (confirm),308517.803,4836591.24,-79.453702,43.6712646
+2104,5091,470,Symington Place,91,12,M6N 4Y4,6,2,4,1978,Towns & Wkups,Townhouse,3,3 - Storey Townhouse (confirm),308493.324,4836578.7,-79.454006,43.6711519
+628,5434,181,Leonardo Court,80,14,M6G 3Z9,157,1,156,1989,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,311643.949,4834864.327,-79.414959,43.6556979
+2088,4740,171,Senator D. Croll Apartments,79,52,M5S 1W8,326,179,147,1980,High Rise,High Rise Apt. Bldg.Elevator,18,18 - Storey High Rise Apt. Bldg.,312786.358,4836123.699,-79.400776,43.6670231
+1264,4846,357,Carlton St. (234-236),71,51,M5A 2L1,9,1,8,1890,Houses,House Semi-Detached Single Fam.,3,3 - Storey  Semi-Detached House - Multiplex  (hist),315355.618,4835826.913,-79.368924,43.6643192
+1266,4739,170,Donvale Manor,71,51,M5A 3V4,81,1,80,1976,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,315640.938,4835637.373,-79.36539,43.6626091
+1271,5628,108,Riverdale Acres,71,51,M5A 3R1,25,1,24,1961,Towns & Wkups,Walkup Apartment Building,3,3-Storey Walk-Up Apt. Bldg.,316087.611,4835820.851,-79.359848,43.664254
+1273,4791,316,South St. Jamestown 1,71,51,M4X 1A1,6,0,6,1895,Houses,House Semi-Detached Multiplex,3,3 - Storey House -Sixplex,315269.265,4835852.795,-79.369994,43.6645534
+1278,4796,316,South St. Jamestown 1,71,51,M5A 2L1,9,1,8,1875,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex,315298.582,4835806.4,-79.369631,43.6641354
+1279,4797,316,South St. Jamestown 1,71,51,M5A 2L1,11,0,11,1890,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex,315307.536,4835810.192,-79.36952,43.6641693
+1280,4798,316,South St. Jamestown 1,71,51,M5A 2L1,9,0,9,1880,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-detached House - Multiplex (hist),315337.84,4835822.549,-79.369144,43.6642801
+1281,4799,316,South St. Jamestown 1,71,51,M5A 2L1,9,0,9,1890,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-detached House - Multiplex (hist),315345.524,4835826.984,-79.369049,43.6643199
+1282,4800,316,South St. Jamestown 1,71,51,M4X 1P4,7,0,7,1977,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),315381.315,4835928.827,-79.368603,43.6652362
+1283,4802,316,South St. Jamestown 1,71,51,M4X 1P4,12,1,11,1875,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),315379.085,4835935.227,-79.368631,43.6652938
+1284,4803,316,South St. Jamestown 1,71,51,M4X 1P4,11,0,11,1875,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),315366.655,4835935.673,-79.368785,43.665298
+1285,4804,316,South St. Jamestown 1,71,51,M4X 1P4,14,0,14,1875,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),315372.756,4835946.361,-79.368709,43.6653941
+1286,4806,316,South St. Jamestown 1,71,51,M4X 1P6,13,0,13,1900,Houses,House Multiplex,2,2 - Storey House - Multiplex,315339.964,4836069.674,-79.369113,43.6665046
+707,5929,479,Wales Casimir,78,14,M5T 2P6,6,4,2,1982,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,312516.397,4834501.721,-79.404147,43.6524261
+708,5935,479,Wales Casimir,78,14,M5T 1J3,8,5,3,1982,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,312542.772,4834541.76,-79.403819,43.6527863
+710,5514,121,Alexandra Park Apartments,78,14,M5T 2L2,257,2,255,1968,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,312819.071,4834312.641,-79.400397,43.650721
+721,5901,466,Queen Vanauley,78,14,M5T 2H4,135,81,54,1986,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,312932.996,4834114.893,-79.398988,43.64894
+737,5547,153,Beverley Manor,78,52,M5T 2X9,180,0,180,1979,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,313536.657,4834260.144,-79.391503,43.6502402
+751,4957,420,Dundas Beverley,78,52,M5T 1G5,11,9,2,1870,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),313362.67,4834679.756,-79.393653,43.6540191
+772,4983,450,Hydro Block,78,52,,8,5,3,1978,Towns & Wkups,Townhouse,3,3 - Storey Townhouse (confirm),313310.481,4835012.44,-79.394295,43.6570143
+774,5026,450,Hydro Block,78,52,M5T 1X1,105,54,51,1978,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,313330.313,4835013.99,-79.394049,43.657028
+776,5544,150,Kensington Manor,78,14,M5T 2Y2,189,0,189,1979,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,312705.645,4834999.574,-79.401793,43.6569055
+778,5501,495,Larch St. (15),78,52,M5T 3J7,20,8,12,1993,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,313134.686,4834528.914,-79.396482,43.6526643
+780,5490,486,McCaul St. (22),78,52,M5T 3C2,139,50,89,1991,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,313618.859,4834369.14,-79.390482,43.6512202
+782,5479,484,Simcoe St. Patrick,78,52,M5T 3B9,53,18,35,1991,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,313720.374,4834669.271,-79.389219,43.6539203
+783,5480,484,Simcoe St. Patrick,78,52,M5T 3C1,54,15,39,1991,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,313700.473,4834665.331,-79.389466,43.6538851
+785,5903,477,Sullivan St. (11),78,52,M5T 1B8,17,11,6,1923,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,313370.319,4834391.822,-79.393563,43.6514274
+790,5599,742,Church St. (1),77,51,M5E 1Y6,115,67,48,1996,High Rise,High Rise Apt. Bldg. & Towns,13,13 - Storey  High Rise Apt. Bldg. and Townhouses,315040.337,4833905.974,-79.372869,43.6470328
+791,5385,706,Crombie Park,77,51,M5A 4B5,12,7,5,1979,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,315261.842,4833974.898,-79.370122,43.6476501
+792,5393,706,Crombie Park,77,51,M5A 4B5,196,135,61,1979,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,315285.761,4833893.711,-79.369827,43.646919
+794,5971,721,Scadding Ave. (15),77,51,M5A 4G6,7,7,0,1982,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,315542.345,4834061.1,-79.366643,43.648422
+796,5979,721,Scadding Ave. (15),77,51,M5A 4G6,7,5,2,1982,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,315547.7,4834077.001,-79.366577,43.648565
+809,5598,738,The Esplanade (140),77,51,M5A 4P5,102,36,66,1993,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,315250.877,4834075.626,-79.370256,43.648557
+1015,4790,313,Pembroke Mews,73,51,M5A 3Z5,174,9,165,1978,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,315195.671,4835026.678,-79.370922,43.6571186
+1023,3497,94,Sherbourne Shuter,73,51,M5A 3W2,301,0,301,1973,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,315308.923,4834857.287,-79.369521,43.6555922
+1031,5552,158,William Dennison Apartments,73,51,M5A 3Z8,155,0,155,1980,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,315213.842,4835196.523,-79.370694,43.658647
+1032,5553,158,William Dennison Apartments,73,51,M5A 2R9,11,0,11,1980,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-Detached Multiplex,315203.885,4835179.794,-79.370817,43.6584966
+1268,5579,375,Jarvis St. (261),73,51,M5B 2N9,55,10,45,1994,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,314899.288,4835116.244,-79.374595,43.657929
+1272,4705,840,SHOP Houses CHU 16,73,51,M5B 2C2,24,0,24,1993,Houses,House Detached  Multiplex,3,3-Storey Detached House - Multiplex (hist),314878.504,4835195.46,-79.374851,43.6586422
+2207,77437,811,Adelaide St. E. (501),73,51,M5A 4K1,180,24,156,2009,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,315646.432,4834521.781,-79.365341,43.6525586
+1006,5561,166,Edna Dixon Apartments,72,51,M5A 1V2,44,0,44,1984,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,316265.96,4835054.266,-79.357649,43.6573424
+615,5810,430,Frankel Lambert 1 Townhouses,94,13,M6G 3X8,12,8,4,1980,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,310766.021,4836728.235,-79.425821,43.6724833
+616,5823,434,Frankel Lambert 2 Melita Cr.(470),94,13,M6G 3Y1,9,5,4,1980,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,310703.674,4836677.264,-79.426595,43.672025
+618,5833,434,Frankel Lambert 2 Melita Cr.(470),94,13,M6G 3Y4,9,6,3,1980,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,310680.032,4836670.589,-79.426888,43.6719651
+624,5868,460,Lambert Court,94,13,M6G 3Y8,21,19,2,1983,Towns & Wkups,Stacked Townhouse,3,"3 - Storey Stacked Townhouse (id, confirm)",310952.715,4836897.087,-79.423504,43.6740016
+625,5873,460,Lambert Court,94,13,M6G 3Y9,64,47,17,1983,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg. (confirm),311020.734,4836888.76,-79.422661,43.6739261
+2043,5582,490,Bathurst St.(1400),94,13,M5R 3S5,113,40,73,1993,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,311390.894,4837635.882,-79.418061,43.6806482
+2089,4718,842,SHOP Houses CHU 25,94,13,M5R 3S3,8,0,8,1993,Mid Rise,Mid Rise Apt. Bldg.Elevator (2 condominium units),5,5 - Storey Apt. Bldg. 2-units in Bathurst 1400,311367.404,4837872.711,-79.41835,43.6827801
+2091,5581,487,St. Clair Ave. W. (909),94,13,M6C 1C7,6,1,5,1990,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt Bldg. (1st floor:retail stores),310122.397,4837533.775,-79.433794,43.6797391
+2046,5556,161,Doug Saunders Apartments,107,13,M6E 4Z9,300,1,299,1981,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,308913.028,4839318.616,-79.448781,43.6958123
+2057,5432,950,Northcliffe Blvd. (659),107,13,M6E 5B3,54,23,31,0,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid Rise Apt. Bldg.,309037.765,4839318.706,-79.447234,43.6958124
+738,6080,800,Chestnut Elizabeth,76,52,M5G 2J1,144,48,96,1987,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,314013.801,4834771.619,-79.38558,43.6548379
+752,5997,723,Elm St. (25),76,52,M5G 2G5,101,59,42,1985,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,314226.76,4835052.209,-79.382935,43.6573608
+784,5597,736,St. Joseph St. (21),76,52,M4Y 1J8,35,6,29,1994,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,313946.949,4835971.066,-79.386388,43.6656354
+713,4946,416,Dufferin Gwynne,85,14,M6K 2C2,30,15,15,1980,Towns & Wkups,Townhouse,3,3 - Storey Townhouse (courtyard wing (built over a garage),310514.649,4833073.12,-79.428978,43.6395846
+2015,3985,27,Humber Boulevard,111,12,M6N 2H6,6,0,6,1968,Towns & Wkups,Townhouse Sixplex,3,3 - Storey Townhouse,306225.967,4837436.218,-79.48212,43.6788781
+2019,3989,27,Humber Boulevard,111,12,M6N 2H6,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,306225.967,4837436.218,-79.48212,43.6788781
+91,3884,220,Martin Grove Albion,1,23,M9V 1B8,8,0,8,1972,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297034.851,4844517.319,-79.596216,43.7425773
+57,3866,45,Kipling Mount Olive,2,23,M9V 2C6,12,0,12,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297831.157,4844854.644,-79.586331,43.7456131
+129,3695,210,Thistletown 1,2,23,M9V 3M6,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,297922.778,4843512.994,-79.585176,43.7335374
+133,3699,210,Thistletown 1,2,23,M9V 3M7,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,297832.725,4843524.719,-79.586294,43.7336421
+1371,3558,325,Edgeley Village Shoreham,24,31,M3N 1T4,13,0,13,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303323.1,4847765.813,-79.518154,43.7718579
+271,4219,200,Lawrence Heights,32,32,M6A 2M2,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309422.557,4842401.574,-79.442434,43.72356
+311,4233,200,Lawrence Heights,32,32,M6A 2M7,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309196.449,4842149.332,-79.445243,43.7212909
+359,4225,200,Lawrence Heights,32,32,M6A 2L9,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309272.266,4842350.752,-79.4443,43.7231035
+1236,5592,731,Broadway Ave. (133),104,53,M4P 1V5,52,9,43,1954,Low Rise,Low Rise Apt. Bldg.Elevator,3,3 - Storey Low Rise Apt. Bldg.,313496.527,4840952.816,-79.391893,43.710482
+287,4275,200,Lawrence Heights,31,32,M6A 2P2,8,0,8,1954,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,308962.682,4842097.787,-79.448144,43.7208283
+1241,5781,425,Elm Ridge Dr. (165),102,13,M6B 1B2,14,14,0,1985,Low Rise,Low Rise Apt. Bldg.Elevator,2,2 - Storey Low Rise Apt Bld w. elevator - Multiplex Nursing Home,309716.716,4840055.616,-79.438804,43.7024414
+2195,74476,334,Rivertowne,70,55,M4M 3G1,16,0,16,2008,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,316619.268,4835419.084,-79.353264,43.6606293
+1052,5687,304,Greenwood Walpole,65,55,M4L 3W5,8,3,5,1987,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318667.171,4837019.297,-79.327832,43.6749982
+2005,90084,173,Cooper Mills Townhomes,114,11,M6S 4W6,12,3,9,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+47,70454,972,Kendleton Dr. (111),2,23,M9V 1V2,58,58,0,1965,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid Rise Apt. Bldg.,298243.847,4843994.13,-79.581199,43.7378797
+213,5626,106,Westacres Extension,4,23,M9W 4C6,16,0,16,1960,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299179.693,4842525.471,-79.569566,43.7246675
+214,5645,177,Weston Towers,23,31,M9M 2Z9,176,122,54,1984,High Rise,High Rise Apt. Bldg.Elevator,18,18 - Storey High Rise Apt. Bldg.,301785.494,4843485.091,-79.537229,43.7333208
+1752,3484,76,Finch Birchmount,117,42,M1T 2Z7,6,0,6,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,320599.66,4850651.981,-79.303467,43.7976702
+1740,90096,178,Empringham Mews,132,42,M1B 4A2,6,0,6,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,327894.569,4852288.829,-79.212743,43.8122131
+1677,3969,218,Victoria Park Chester Le,117,42,M1W 2M9,11,0,11,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318353.698,4850644.859,-79.331378,43.7976501
+1701,90063,218,Victoria Park Chester Le,117,42,M1W 2N5,9,0,9,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318220.845,4850689.277,-79.333027,43.7980523
+2121,3519,100,Greenbrae Circuit 2,137,43,M1H 1R1,128,0,128,1970,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,326511.584,4846434.635,-79.230169,43.7595604
+436,4142,75,Morningside Coronation,136,43,M1E 2L5,14,0,14,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,330321.339,4846998.92,-79.182829,43.7645191
+440,4146,75,Morningside Coronation,136,43,M1E 2L6,20,0,20,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,330309.568,4847058.113,-79.182972,43.7650523
+1558,3145,99,Teesdale Pharmacy,121,41,M1L 1L2,278,0,278,1971,High Rise,High Rise Apt. Bldg.Elevator,24,24 - Storey High Rise Apt. Bldg.,321889.538,4839471.448,-79.287792,43.6970038
+1574,3198,73,Kennedy Road,124,41,M1K 3G9,36,0,36,1969,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,323793.377,4842804.254,-79.264055,43.7269569
+2158,5542,148,St. George Manor,123,43,M1M 3T8,330,0,330,1979,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,325805.629,4842089.426,-79.239105,43.7204681
+509,4354,1,O'Connor Drive,43,54,M4A 1A3,10,0,10,1966,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,320715.496,4841634.676,-79.302293,43.716501
+532,4110,208,Warden Woods,121,41,M1L 1P2,30,0,30,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,322618.994,4840163.691,-79.278719,43.7032178
+207,5608,101,Westacres,4,23,M9W 4C5,16,0,16,1957,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299103.606,4842641.776,-79.570511,43.7257138
+209,5622,106,Westacres Extension,4,23,M9W 4C5,16,2,14,1960,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299125.345,4842607.537,-79.570241,43.7254058
+1479,3900,224,Trethewey Tedder,30,12,M6M 5A4,165,0,165,1974,High Rise,High Rise Apt. Bldg.Elevator,19,19 - Storey High Rise Apt. Bldg.,304798.114,4839539.581,-79.49983,43.697812
+1480,3901,224,Trethewey Tedder,30,12,M6M 5A5,204,0,204,1974,High Rise,High Rise Apt. Bldg.Elevator,18,18 - Storey High Rise Apt. Bldg.,304708.284,4839557.378,-79.500945,43.6979721
+570,5643,175,Trimbee Court,115,12,M6M 5C3,255,82,173,1983,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,305388.692,4838588.272,-79.492504,43.689249
+2042,3976,22,Willowridge Richview,7,23,M9R 3Z1,238,0,238,1972,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,299172.333,4837117.833,-79.5696,43.6759923
+576,3891,14,East Mall,11,22,M9B 4A9,8,0,8,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,299294.867,4835105.02,-79.56806,43.6578757
+577,3892,14,East Mall,11,22,M9B 4A9,10,0,10,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,299462.087,4835054.077,-79.565986,43.6574184
+578,3893,14,East Mall,11,22,M9B 4A9,10,0,10,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,299551.721,4835000.664,-79.564874,43.6569382
+579,3894,14,East Mall,11,22,M9B 4A9,19,0,19,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,299424.023,4835031.362,-79.566458,43.6572137
+580,3895,14,East Mall,11,22,M9B 4A9,19,0,19,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,299517.341,4835050.392,-79.565301,43.6573856
+581,3896,14,East Mall,11,22,M9B 4A9,19,0,19,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,299518.569,4834974.879,-79.565285,43.6567059
+582,3897,14,East Mall,11,22,M9B 4A9,19,0,19,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,299576.278,4834949.095,-79.564569,43.6564742
+2017,3987,27,Humber Boulevard,111,12,M6N 2H6,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,306225.967,4837436.218,-79.48212,43.6788781
+1,4045,32,Atkinson Co-operative,78,14,M5T 2K6,77,0,77,1968,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,312846.191,4834244.342,-79.400062,43.650106
+2,4023,32,Atkinson Co-operative,78,14,M5T 1H6,14,0,14,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,312767.393,4834467.825,-79.401036,43.6521184
+4,4047,32,Atkinson Co-operative,78,14,M5T 1H4,11,0,11,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312858.347,4834475.328,-79.399908,43.652185
+5,4050,32,Atkinson Co-operative,78,14,M5T 1E3,12,0,12,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,312730.954,4834376.97,-79.401489,43.651301
+7,4035,32,Atkinson Co-operative,78,14,M5T 2J5,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312924.597,4834455.525,-79.399087,43.652006
+8,4036,32,Atkinson Co-operative,78,14,M5T 2J6,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312878.365,4834386.28,-79.399661,43.6513832
+1369,3556,325,Edgeley Village Shoreham,24,31,M3N 1T4,12,0,12,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303272.707,4847785.811,-79.51878,43.7720378
+1370,3557,325,Edgeley Village Shoreham,24,31,M3N 1T4,13,0,13,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303368.693,4847665.829,-79.517587,43.770958
+1372,3559,325,Edgeley Village Shoreham,24,31,M3N 1T4,17,0,17,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303276.707,4847548.246,-79.518729,43.7698994
+1373,3560,325,Edgeley Village Shoreham,24,31,M3N 1T4,17,0,17,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303255.91,4847717.82,-79.518988,43.7714257
+1374,3561,325,Edgeley Village Shoreham,24,31,M3N 1T4,18,0,18,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303299.903,4847673.828,-79.518441,43.7710298
+1375,3562,325,Edgeley Village Shoreham,24,31,M3N 1T4,23,0,23,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303372.692,4847552.245,-79.517537,43.7699356
+1377,3624,52,Finch Tobermory,24,31,M3N 2R5,374,0,374,1972,High Rise,High Rise Apt. Bldg.Elevator,24,24 - Storey High Rise Apt. Bldg.,304069.821,4846499.065,-79.508877,43.7604567
+1380,3588,3,Jane Milo,24,31,M3N 2G7,7,0,7,1971,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303122.14,4846922.199,-79.520647,43.7642638
+1378,3635,4,Finch Topcliffe,25,31,M3N 1M5,18,0,18,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,303953.314,4846250.864,-79.510323,43.7582224
+245,4220,200,Lawrence Heights,32,32,M6A 2M6,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309256.714,4842305.138,-79.444493,43.722693
+246,4229,200,Lawrence Heights,32,32,M6A 2M6,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309339.805,4842298.488,-79.443462,43.7226326
+1392,3813,97,Firgrove Crescent,25,31,M3N 2X2,30,0,30,1975,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,303418.401,4845437.47,-79.516964,43.7508999
+1393,3804,97,Firgrove Crescent,25,31,M3N 2X4,7,0,7,1975,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303313.278,4845504.893,-79.518269,43.7515066
+1394,3806,97,Firgrove Crescent,25,31,M3N 2X3,20,0,20,1975,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303317.864,4845385.275,-79.518212,43.7504299
+1395,3803,97,Firgrove Crescent,25,31,M3N 2X5,6,0,6,1975,Towns & Wkups,Townhouse Multiplex,3,3-Storey Townhouse Sixplex,303440.085,4845533.605,-79.516695,43.7517653
+1396,3811,97,Firgrove Crescent,25,31,M3N 2X6,25,0,25,1975,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,303422.279,4845554.934,-79.516916,43.7519572
+1398,3814,42,Jane Firgrove,25,31,M3N 2B9,8,0,8,1971,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303274.347,4845579.225,-79.518753,43.7521756
+1399,3815,42,Jane Firgrove,25,31,M3N 2B9,137,0,137,1971,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,303270.559,4845623.647,-79.5188,43.7525754
+1401,3798,24,Jane Yewtree,25,31,M3N 2J9,188,0,188,1971,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,303482.324,4845820.354,-79.516171,43.7543465
+1419,3671,12,Sheppard Yatescastle,25,31,M3L 1Y3,8,0,8,1963,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304369.455,4844337.495,-79.505154,43.7410002
+11,4040,32,Atkinson Co-operative,78,14,M5T 2J4,13,0,13,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312945.652,4834274.587,-79.398826,43.6503686
+13,4033,32,Atkinson Co-operative,78,14,M5T 2H5,7,0,7,1968,Towns & Wkups,Townhouse Sixplex,3,3 - Storey Townhouse,312965.568,4834178.71,-79.398584,43.649514
+14,4049,32,Atkinson Co-operative,78,14,M5T 2H5,15,0,15,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312973.867,4834157.055,-79.398481,43.649319
+18,4022,32,Atkinson Co-operative,78,14,M5T 2J3,9,0,9,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312794.664,4834433.77,-79.400698,43.6518116
+22,4037,32,Atkinson Co-operative,78,14,M5T 2H7,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312849.654,4834387.39,-79.400017,43.6513935
+23,4038,32,Atkinson Co-operative,78,14,M5T 2H7,10,0,10,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312938.531,4834172.694,-79.398919,43.6494602
+24,4039,32,Atkinson Co-operative,78,14,M5T 2H7,12,0,12,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,312862.728,4834381.009,-79.399855,43.6513359
+25,4044,32,Atkinson Co-operative,78,14,M5T 2H8,70,0,70,1968,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,312805.773,4834421,-79.400561,43.6516965
+28,4025,32,Atkinson Co-operative,78,14,M5T 1E6,9,0,9,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,312755.797,4834414.58,-79.40118,43.6516392
+1996,90075,173,Cooper Mills Townhomes,114,11,M6S 4W6,10,6,4,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+1998,90077,173,Cooper Mills Townhomes,114,11,M6S 4W6,10,8,2,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+2000,90079,173,Cooper Mills Townhomes,114,11,M6S 4W6,10,7,3,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+2001,90080,173,Cooper Mills Townhomes,114,11,M6S 4W6,12,7,5,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+2002,90081,173,Cooper Mills Townhomes,114,11,M6S 4W6,10,7,3,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+1362,3576,25,Edgeley Village Driftwood,24,31,M3N 2R1,17,0,17,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303516.271,4847377.633,-79.515753,43.7683641
+1363,3577,25,Edgeley Village Driftwood,24,31,M3N 2P9,17,0,17,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303604.152,4847300.192,-79.514661,43.7676672
+1364,3578,25,Edgeley Village Driftwood,24,31,M3N 2P9,21,0,21,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303658.099,4847416.353,-79.513992,43.7687129
+1366,3553,325,Edgeley Village Shoreham,24,31,M3N 1T4,7,0,7,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303359.094,4847597.039,-79.517706,43.7703388
+1367,3554,325,Edgeley Village Shoreham,24,31,M3N 1T4,11,0,11,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303313.501,4847577.842,-79.518272,43.7701659
+1368,3555,325,Edgeley Village Shoreham,24,31,M3N 1T4,11,0,11,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303238.312,4847754.614,-79.519207,43.7717569
+37,3827,29,Duncan Woods Drive,21,31,M9L 2E6,9,0,9,1966,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,299310.833,4845855.331,-79.567973,43.7546418
+38,3828,29,Duncan Woods Drive,21,31,M9L 2E6,10,0,10,1966,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,299370.3,4845818.49,-79.567234,43.7543107
+44,3830,217,Islington Satterly,21,31,M9L 2V2,9,0,9,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,299207.994,4846192.589,-79.569253,43.7576768
+46,3831,217,Islington Satterly,21,31,M9L 2V3,19,0,19,1973,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,299246.136,4846086.624,-79.568779,43.7567232
+2200,76137,305,Finch Ave. West 2350 (Amansie Place),21,31,M9M 2C7,15,4,11,2008,Towns & Wkups,Stacked Townhouse,4,4 - Storey Stacked Townhouse,301243.618,4845583.62,-79.54397,43.752208
+2201,76138,305,Finch Ave. West 2350 (Amansie Place),21,31,M9M 2C7,33,17,16,2008,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,301243.618,4845583.62,-79.54397,43.752208
+40,3819,58,Finch Ardwick,22,31,M9M 1V7,7,0,7,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,300212.131,4845138.158,-79.556774,43.7481926
+41,3820,58,Finch Ardwick,22,31,M9M 1V7,18,0,18,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,300185.013,4845150.023,-79.557111,43.7482992
+199,3890,18,Torbolton Drive,4,23,M9W 3Y2,17,0,17,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,300103.493,4842033.02,-79.558095,43.7202408
+200,5601,101,Westacres,4,23,M9W 4C6,16,0,16,1957,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299161.758,4842715.689,-79.56979,43.7263796
+201,5602,101,Westacres,4,23,M9W 4C5,16,1,15,1957,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299109.584,4842708.624,-79.570438,43.7263156
+202,5603,101,Westacres,4,23,M9W 4C6,16,1,15,1957,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299172.628,4842683.081,-79.569655,43.7260862
+203,5604,101,Westacres,4,23,M9W 4C5,16,0,16,1957,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299090.562,4842679.82,-79.570674,43.7260562
+204,5605,101,Westacres,4,23,M9W 4C6,16,0,16,1957,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299183.497,4842650.471,-79.56952,43.7257927
+43,5644,176,Humberline Place,1,23,M9W 6J5,179,141,38,1984,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,295777.595,4843260.265,-79.611804,43.7312483
+92,3885,220,Martin Grove Albion,1,23,M9V 1B8,8,0,8,1972,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297034.851,4844517.319,-79.596216,43.7425773
+93,3886,220,Martin Grove Albion,1,23,M9V 1B8,10,0,10,1972,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297034.851,4844517.319,-79.596216,43.7425773
+94,3887,220,Martin Grove Albion,1,23,M9V 1B8,12,0,12,1972,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,297034.851,4844517.319,-79.596216,43.7425773
+51,3858,45,Kipling Mount Olive,2,23,M9V 2C6,8,0,8,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297847.058,4844814.451,-79.586133,43.7452515
+52,3860,45,Kipling Mount Olive,2,23,M9V 2C6,9,0,9,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297905.802,4844831.677,-79.585404,43.7454071
+53,3861,45,Kipling Mount Olive,2,23,M9V 2C6,10,0,10,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297887.693,4844867.012,-79.585629,43.745725
+54,3862,45,Kipling Mount Olive,2,23,M9V 2C6,10,0,10,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297865.609,4844913.83,-79.585904,43.7461462
+2018,3988,27,Humber Boulevard,111,12,M6N 2H6,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,306225.967,4837436.218,-79.48212,43.6788781
+2020,3990,27,Humber Boulevard,111,12,M6N 2H6,9,0,9,1968,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,306225.967,4837436.218,-79.48212,43.6788781
+2022,3983,71,Jane Woolner,111,12,M6N 1Y3,304,0,304,1968,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,305535.861,4836749.508,-79.49068,43.6726977
+2023,5515,122,Mount Dennis Apartments,111,12,M6N 2H5,246,0,246,1969,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,306234.164,4837538.915,-79.482018,43.6798025
+2024,5541,147,Outlook Manor,111,12,M6N 4Y3,275,0,275,1979,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,305087.496,4837388.185,-79.49624,43.6784468
+592,4064,62,West Mall,13,22,M9C 1G3,8,0,8,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,299163.834,4834332.996,-79.569676,43.6509254
+593,4065,62,West Mall,13,22,M9C 1G3,8,0,8,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,299177.816,4834289.197,-79.569502,43.6505313
+594,4066,62,West Mall,13,22,M9C 1G3,10,0,10,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,299140.391,4834410.267,-79.569968,43.6516208
+595,4067,62,West Mall,13,22,M9C 1G3,10,0,10,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,299145.727,4834385.246,-79.569901,43.6513956
+596,4068,62,West Mall,13,22,M9C 1G3,11,0,11,1962,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,299067.776,4834444.712,-79.570868,43.6519303
+597,4069,62,West Mall,13,22,M9C 1G4,24,0,24,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,298979.694,4834533.082,-79.571961,43.6527251
+598,4071,62,West Mall,13,22,M9C 1G3,16,0,16,1962,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,299154.999,4834360.669,-79.569786,43.6511745
+573,3009,221,Capri Road,14,22,M9B 6B9,257,20,237,1973,High Rise,High Rise Apt. Bldg.Elevator,20,20 - Storey High Rise Apt. Bldg.,299618.342,4834530.235,-79.564044,43.6527042
+574,3898,222,Dundas Mabelle,14,22,M9A 4Y6,255,0,255,1962,High Rise,High Rise Apt. Bldg.Elevator,19,19 - Storey High Rise Apt. Bldg.,302305.928,4833790.048,-79.53072,43.6460539
+575,3899,222,Dundas Mabelle,14,22,M9A 4Y5,255,0,255,1962,High Rise,High Rise Apt. Bldg.Elevator,19,19 - Storey High Rise Apt. Bldg.,302329.86,4833829.218,-79.530423,43.6464066
+586,5549,155,Islington Manor,14,22,M9A 5A9,350,2,348,1979,High Rise,High Rise Apt. Bldg.Elevator,19,19 - Storey High Rise Apt. Bldg.,302548.527,4833654.887,-79.527712,43.6448379
+587,5567,202,Lerette Manor,18,22,M8V 3Y8,178,8,170,1993,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,303854.172,4828747.612,-79.511522,43.6006696
+599,5550,156,Woods Manor,18,22,M8V 3V8,148,6,142,1980,High Rise,High Rise Apt. Bldg.Elevator & Wing,9,9 - Storey High Rise Apt. Bldg. & 5-Storey Wing,304660.286,4828825.602,-79.501536,43.6013719
+583,5526,132,Edwards Manor,17,22,M8Y 2P9,307,11,296,1972,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,304837.091,4830553.024,-79.499346,43.6169208
+584,5536,142,Griggs Manor 1,17,22,M8V 3V6,300,2,298,1977,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,305026.782,4830393.808,-79.496995,43.6154876
+1994,5641,173,Cooper Mills Townhomes,114,11,M6S 4W6,15,11,4,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+1995,90074,173,Cooper Mills Townhomes,114,11,M6S 4W6,14,8,6,1981,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,304559.046,4835885.092,-79.502792,43.6649168
+160,3719,210,Thistletown 1,2,23,M9V 1N4,18,0,18,1966,Towns & Wkups,Townhouse Centre Hall Mulrifam.,3,3 - Storey Townhouse Centre Hall Multifam,298003.885,4843424.704,-79.584168,43.7327434
+161,3720,210,Thistletown 1,2,23,M9V 1N4,18,0,18,1966,Towns & Wkups,Townhouse Centre Hall Mulrifam.,3,3 - Storey Townhouse Centre Hall Multifam,298037.274,4843469.784,-79.583754,43.7331495
+162,3758,26,Thistletown 2,2,23,M9V 1T5,13,0,13,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297578.167,4844035.928,-79.589464,43.7382497
+163,3744,26,Thistletown 2,2,23,M9V 1T7,7,0,7,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297594.241,4844077.487,-79.589265,43.7386239
+165,3748,26,Thistletown 2,2,23,M9V 3S5,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297352.753,4844187.884,-79.592264,43.7396152
+166,3749,26,Thistletown 2,2,23,M9V 3S5,8,0,8,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297408.358,4844181.226,-79.591574,43.7395558
+167,3753,26,Thistletown 2,2,23,M9V 3S5,10,0,10,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297385.646,4844201.197,-79.591856,43.7397354
+168,3754,26,Thistletown 2,2,23,M9V 3S5,10,0,10,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297412.587,4844122.386,-79.591521,43.7390263
+169,3755,26,Thistletown 2,2,23,M9V 3S5,11,0,11,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297331.999,4844173.786,-79.592522,43.7394881
+172,3734,26,Thistletown 2,2,23,M9V 3S5,6,0,6,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,297336.307,4844259.15,-79.59247,43.7402565
+175,3752,26,Thistletown 2,2,23,M9V 3S5,10,0,10,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297306.546,4844243.487,-79.592839,43.7401153
+176,3756,26,Thistletown 2,2,23,M9V 3S5,11,0,11,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297344.53,4844278.73,-79.592368,43.7404328
+177,3757,26,Thistletown 2,2,23,M9V 3S5,12,0,12,1968,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,297403.659,4844244.663,-79.591633,43.7401268
+622,4052,83,High Park Quebec,88,11,M6P 2T3,6,0,6,1969,Towns & Wkups,Walkup Apartment Building,2,2 - Storey  Walk-Up Apt.Bldg.,307371.844,4834931.023,-79.467921,43.6563249
+716,5618,104,May Robinson Apartments,86,14,M6K 2T4,299,0,299,1959,High Rise,High Rise Apt. Bldg. & 1-storey,11,11 - Storey High Rise Apt. Bldg. & 1 - Storey wing,309918.979,4833362.107,-79.436358,43.64219
+717,5619,104,May Robinson Apartments,86,14,M6K 2T2,98,0,98,1959,Low Rise,Low Rise Apt. Bldg.Elevator,2,2 - Storey Low Rise Apt. Building,309965.137,4833347.706,-79.435786,43.6420601
+719,5580,483,O'Hara Ave. (22),86,14,M6K 2P8,13,5,8,1918,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,310042.331,4833338.397,-79.434829,43.6419758
+712,4935,416,Dufferin Gwynne,85,14,M6K 3E5,114,51,63,1980,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,310578.464,4833069.527,-79.428187,43.6395518
+714,4015,57,Dunn Avenue,85,14,M6K 1S6,384,0,384,1971,High Rise,High Rise Apt. Bldg.Elevator,20,20 - Storey High Rise Apt. Bldg.,310127.038,4833143.912,-79.433781,43.6402246
+715,5029,465,Laxton Ave (3),85,11,M6K 1K8,42,20,22,1953,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,309807.939,4833023.91,-79.437737,43.6391465
+733,4017,68,Spencer Avenue,85,14,M6K 3C9,57,0,57,1974,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,310420.221,4832823.529,-79.43015,43.6373386
+734,5478,469,Springhurst Dowling,85,11,M6K 3G7,138,48,90,1989,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,309819.008,4832571.13,-79.437604,43.6350706
+736,5496,489,Tyndall Ave (102),85,14,M6K 2E2,54,22,32,1992,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,310514.679,4832751.594,-79.42898,43.6366904
+698,4714,835,SHOP Houses CHU 08,83,14,M6H 3H9,7,0,7,1992,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-Detached House -Sixplex,310155.954,4835156.679,-79.433403,43.6583419
+701,4707,835,SHOP Houses CHU 08,83,14,M6H 1G1,7,0,7,1991,Houses,House Semi-Detached Multiplex,2,2 - Storey House -Sixplex,309992.822,4834678.726,-79.43543,43.654041
+629,4016,90,McCormick Park,84,14,M6K 1T7,106,1,105,1959,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,310236.184,4834137.085,-79.432418,43.6491637
+702,4713,835,SHOP Houses CHU 08,84,14,M6J 3K2,6,0,6,1992,Houses,House Detached Multiplex,3,3 - Storey Detached House -Sixplex,310708.743,4833676.81,-79.426566,43.6450173
+600,4736,695,Bartlett Ave. (331),93,13,M6H 3G8,13,15,-2,1905,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309866.459,4836572.595,-79.436978,43.671089
+608,4924,413,Campbell Antler,93,11,M6P 3V7,12,5,7,1979,Towns & Wkups,Stacked Townhouse,2,2 - Storey Stacked Townhouse,308864.611,4835903.091,-79.449407,43.6650688
+609,5585,491,Carling Irene,93,14,M6G 3R9,9,5,4,1994,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,310862.338,4835646.885,-79.424639,43.662749
+630,4000,87,Pendrith Park,93,14,M6G 1S1,54,0,54,1964,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,310779.852,4835958.745,-79.425658,43.6655567
+631,6010,493,Perth Ave (136-152),93,11,M6P 4G5,18,7,11,1994,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,308854.546,4835100.389,-79.449538,43.6578431
+632,6028,493,Perth Ave (136-152),93,11,M6P 4G5,50,18,32,1994,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,308837.523,4835174.71,-79.449749,43.6585122
+206,5607,101,Westacres,4,23,M9W 4C6,15,1,14,1957,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,299193.823,4842617.863,-79.569391,43.7254993
+1530,3948,50,Flemingdon Park,44,54,M3C 1C2,18,0,18,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318632.584,4841675.86,-79.328142,43.7169129
+1531,90102,50,Flemingdon Park,44,54,M3C 1C1,21,0,21,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1532,90103,50,Flemingdon Park,44,54,M3C 1C1,21,0,21,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1533,90104,50,Flemingdon Park,44,54,M3C 1C1,18,0,18,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1534,90105,50,Flemingdon Park,44,54,M3C 1C1,15,0,15,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1535,90106,50,Flemingdon Park,44,54,M3C 1C1,12,0,12,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1536,5640,190,Glenyan Manor,44,54,M3C 3J2,247,0,247,1981,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,318347.963,4841746.448,-79.331672,43.7175537
+476,5510,120,Centennial Apartments,43,54,M4A 1A2,198,0,198,1967,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg. (with att. Structure (Recreation Room)),320524.072,4841530.269,-79.304672,43.7155652
+477,5511,120,Centennial Apartments,43,54,M4A 1A1,18,0,18,1967,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,320561.223,4841505.676,-79.304212,43.7153431
+478,5512,120,Centennial Apartments,43,54,M4A 1A1,12,0,12,1967,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,320590.003,4841526.607,-79.303854,43.7155309
+489,4342,1,O'Connor Drive,43,54,M4A 1A5,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,320919.828,4841680.617,-79.299756,43.7169102
+490,4343,1,O'Connor Drive,43,54,M4A 1A5,6,0,6,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Sixplex,320849.712,4841644.512,-79.300627,43.7165867
+492,4345,1,O'Connor Drive,43,54,M4A 1A5,8,0,8,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320886.34,4841659.164,-79.300172,43.7167178
+493,4347,1,O'Connor Drive,43,54,M4A 1A4,9,0,9,1966,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,320746.411,4841679.256,-79.301908,43.7169016
+494,4351,1,O'Connor Drive,43,54,M4A 1A5,10,0,10,1966,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,320793.2,4841747.071,-79.301326,43.717511
+495,4352,1,O'Connor Drive,43,54,M4A 1A4,10,0,10,1966,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,320752.866,4841646.58,-79.301829,43.7166073
+496,4355,1,O'Connor Drive,43,54,M4A 1A6,92,0,92,1966,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid Rise Apt. Bldg.,320819.363,4841713.06,-79.301002,43.7172043
+504,4346,1,O'Connor Drive,43,54,M4A 1A3,9,0,9,1966,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,320711.31,4841668.688,-79.302344,43.7168072
+505,4348,1,O'Connor Drive,43,54,M4A 1A3,9,0,9,1966,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,320675.206,4841662.408,-79.302792,43.7167514
+506,4349,1,O'Connor Drive,43,54,M4A 1A3,9,0,9,1966,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,320639.101,4841658.223,-79.303241,43.7167145
+507,4350,1,O'Connor Drive,43,54,M4A 1A3,10,0,10,1966,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,320639.101,4841622.119,-79.303242,43.7163896
+508,4353,1,O'Connor Drive,43,54,M4A 1A3,10,0,10,1966,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam,320677.299,4841627.873,-79.302767,43.7164405
+1638,4316,20,Leslie Nymark,52,33,M2J 4K7,13,0,13,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315586.594,4848337.392,-79.365809,43.776926
+1639,4318,20,Leslie Nymark,52,33,M2J 4L2,14,0,14,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315615.822,4848308.878,-79.365447,43.7766689
+1640,4319,20,Leslie Nymark,52,33,M2J 4L1,15,0,15,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315622.859,4848282.712,-79.36536,43.7764332
+1623,3618,48,Allenbury Gardens,47,33,M2J 2Z2,12,0,12,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,317337.771,4848720.264,-79.344047,43.7803449
+1232,5951,701,Asquith Park,98,53,M4W 1J6,192,121,71,1984,High Rise,High Rise Apt. Bldg.Elevator,17,17 - Storey High Rise Apt. Bldg.,314041.906,4836669.309,-79.385198,43.6719194
+739,3975,214,Church Granby,75,51,M5B 2E5,274,0,274,1972,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,314546.351,4835524.516,-79.378963,43.6616082
+740,5521,128,Collegeview Apartments,75,51,M5B 1T2,340,9,331,1970,High Rise,High Rise Apt. Bldg.Elevator,20,20 - Storey High Rise Apt. Bldg.,314276.997,4835375.715,-79.382306,43.6602721
+1267,5445,209,Jarvis Carlton Apartments,75,51,M4Y 3A3,82,0,82,1995,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,314696.547,4835634.501,-79.377099,43.6625963
+1269,5965,718,Mutual St. (145),75,51,M5B 2K5,145,98,47,1985,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,314758.305,4835246.417,-79.376341,43.6591023
+1270,5998,724,Mutual St. (25),75,51,M5B 2K1,97,64,33,1983,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,314919.444,4834715.511,-79.374349,43.6543128
+1322,5442,193,Wellesley Jarvis Place,75,51,M4Y 2X8,212,0,212,1991,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,314569.899,4835995.071,-79.378663,43.6658437
+1325,5509,902,Wood St. (95),75,51,M4Y 2Z3,72,30,42,1993,Mid Rise,Mid Rise Apt. Bldg. & Towns,0,7 - Storey Mid Rise Apt. Bldg. & 4-Storey block of townhouses,314574.658,4835655.357,-79.37861,43.6627856
+2208,78446,802,Carlton St. (92),75,52,M5B 1M5,110,38,72,2010,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,314606.727,4835600.825,-79.378213,43.6622943
+2212,78442,810,60 Richmond Housing Co-op,75,51,M5C 1N8,85,38,47,2010,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,314771.228,4834517.345,-79.376194,43.6525396
+1263,3904,66,Bleecker Street 1,74,51,M4X 1M3,327,0,327,1969,High Rise,High Rise Apt. Bldg.Elevator,24,24 - Storey High Rise Apt. Bldg.,314879.229,4836525.724,-79.374817,43.6706162
+1323,3905,74,Wellesley St. E (200),74,51,M4X 1G3,719,8,711,1970,High Rise,High Rise Apt. Bldg.Elevator,29,29 - Storey High Rise Apt. Bldg.,314972.971,4836242.189,-79.37366,43.6680628
+1013,4788,313,Pembroke Mews,73,51,M5A 2N6,6,0,6,1978,Towns & Wkups,Townhouse Sixplex,4,4 - Storey Townhouse (id),315151.744,4835047.236,-79.371463,43.6572957
+823,5539,145,Broadview Manor,67,54,M4K 3Y5,131,1,130,1978,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,316092.805,4837162.489,-79.359755,43.6763304
+837,3817,89,Greenwood Park,70,55,M4L 1L2,81,0,81,1960,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,318650.451,4836079.491,-79.328063,43.6665389
+838,5465,379,Jones Ave. (52-54),70,55,M4M 2Z8,9,2,7,1995,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-Detached House - Fourplex,318199.802,4835784.875,-79.333658,43.6638952
+839,5688,309,Jones Curzon,70,55,M4M 2Z7,15,4,11,1985,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318296.285,4835737.231,-79.332463,43.6634646
+844,5578,374,Louvain Ave. (29),70,55,M4M 3M7,51,8,43,1993,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Low Rise Apt. Bldg.,317937.063,4835634.227,-79.33692,43.6625439
+845,5527,133,May Birchard Apartments,70,55,M4M 3G4,29,0,29,1973,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,316746.84,4835584.466,-79.351679,43.6621159
+863,5464,378,Queen St. (1167),70,55,M4M 1L5,40,6,34,1995,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,318262.632,4835628.983,-79.332883,43.6624909
+866,5673,179,Riverdale Mews,70,55,M4M 3K1,22,13,9,1983,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,318093.925,4836747.416,-79.334944,43.6725526
+1289,4809,316,South St. Jamestown 1,71,51,M4X 1A6,13,1,12,1890,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),315245.538,4835940.438,-79.370286,43.6653427
+1290,4810,316,South St. Jamestown 1,71,51,M4X 1A6,14,1,13,1880,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),315259.123,4835920.932,-79.370118,43.6651669
+1291,4811,316,South St. Jamestown 1,71,51,M4X 1A6,14,0,14,1945,Houses,House Semi-Detached Multiplex,3,3-Storey Semi-detached House - Multiplex (hist),315260.481,4835941.713,-79.370101,43.665354
+1302,4823,336,South St. Jamestown 2,71,51,M4X 1C8,11,1,10,1890,Houses,House Semi-Detached Multiplex,2,2 - Storey  Semi-Detached House - Multiplex  (hist),315281.767,4836138.802,-79.369833,43.6671277
+1304,4826,336,South St. Jamestown 2,71,51,M4X 1N8,11,0,11,1880,Houses,House Semi-Detached Multiplex,2,2 - Storey Semi-detached House - Multiplex,315239.78,4836159.777,-79.370353,43.6673171
+1309,4831,336,South St. Jamestown 2,71,51,M4X 1G8,6,0,6,1890,Houses,House Semi-Detached Multiplex,2,2 - Storey House -Sixplex,315121.719,4836179.889,-79.371817,43.6674998
+1310,4832,336,South St. Jamestown 2,71,51,M4X 1G8,7,0,7,1890,Houses,House Multiplex,2,2 - Storey House - Multiplex,315161.248,4836194.518,-79.371327,43.667631
+1311,4833,336,South St. Jamestown 2,71,51,M4X 1G8,10,0,10,1880,Houses,House Row Multiplex,2,2.5-Storey  Row House Multiplex (hist.),315169.766,4836196.406,-79.371221,43.6676478
+1312,4834,336,South St. Jamestown 2,71,51,M4X 1G9,9,0,9,1880,Houses,House Semi-Detached Multiplex,2,2 - Storey Semi-detached House - Multiplex,315214.491,4836204.981,-79.370666,43.6677244
+1315,4837,336,South St. Jamestown 2,71,51,M4X 1G9,10,0,10,1885,Houses,House Semi-Detached Multiplex,2,2 - Storey Semi-detached House - Multiplex,315232.771,4836210.549,-79.370439,43.6677742
+1316,4838,336,South St. Jamestown 2,71,51,M4X 1G9,7,0,7,1885,Houses,House Semi-Detached Multiplex,2,2 - Storey  Semi-Detached House - Multiplex  (hist),315239.917,4836212.725,-79.370351,43.6677937
+1421,3673,12,Sheppard Yatescastle,25,31,M3L 1Y3,12,0,12,1963,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304444.374,4844380.18,-79.504223,43.7413845
+1422,3674,12,Sheppard Yatescastle,25,31,M3L 1Y3,12,0,12,1963,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304416.061,4844371.469,-79.504575,43.7413061
+1423,3675,12,Sheppard Yatescastle,25,31,M3L 1Y3,12,0,12,1963,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304608.15,4844411.543,-79.50219,43.7416668
+1424,3676,12,Sheppard Yatescastle,25,31,M3L 1Y7,12,0,12,1963,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304180.269,4844283.303,-79.507502,43.7405123
+1425,3677,12,Sheppard Yatescastle,25,31,M3L 1Y3,12,0,12,1963,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304296.714,4844311.795,-79.506057,43.7407688
+1431,3761,44,Yorkwoods Village,25,31,M3N 2M2,9,0,9,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Fourplex,303781.429,4845328.684,-79.512456,43.7499213
+1437,3779,44,Yorkwoods Village,25,31,M3N 2M2,7,0,7,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303878.743,4845297.691,-79.511247,43.7496425
+1438,3781,44,Yorkwoods Village,25,31,M3N 2M2,7,0,7,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303797.544,4845265.46,-79.512256,43.7493523
+1439,3787,44,Yorkwoods Village,25,31,M3N 2M2,17,0,17,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303777.09,4845398.104,-79.51251,43.7505462
+1440,3790,44,Yorkwoods Village,25,31,M3N 2M2,17,0,17,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303806.222,4845303.89,-79.512148,43.7496982
+1441,3792,44,Yorkwoods Village,25,31,M3N 2M2,14,0,14,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303758.495,4845328.064,-79.512741,43.7499157
+1447,3774,44,Yorkwoods Village,25,31,M3N 1J4,9,0,9,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Fiveplex,303746.455,4845230.276,-79.51289,43.7490355
+1448,3777,44,Yorkwoods Village,25,31,M3N 1J1,6,0,6,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,304046.266,4845127.735,-79.509164,43.7481044
+1449,3780,44,Yorkwoods Village,25,31,M3N 1J1,7,0,7,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303938.639,4845201.464,-79.5105,43.7487679
+1450,3782,44,Yorkwoods Village,25,31,M3N 1J4,8,0,8,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303795.34,4845153.672,-79.512283,43.7483461
+1451,3783,44,Yorkwoods Village,25,31,M3N 1J1,8,0,8,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,304025.927,4845102.312,-79.509416,43.7478755
+1452,3785,44,Yorkwoods Village,25,31,M3N 1J4,9,0,9,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303882.526,4845248.419,-79.5112,43.749199
+1453,3788,44,Yorkwoods Village,25,31,M3N 1J1,17,0,17,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303998.809,4845164.6,-79.509753,43.7484361
+1455,3794,44,Yorkwoods Village,25,31,M3N 1J1,15,0,15,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303933.131,4845154.431,-79.510569,43.7483445
+1456,3795,44,Yorkwoods Village,25,31,M3N 1J4,36,0,36,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,303768.629,4845204.069,-79.512615,43.7487997
+1457,3796,44,Yorkwoods Village,25,31,M3N 1J1,18,0,18,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,304075.927,4845079.006,-79.508795,43.7476658
+1242,5443,203,George Barker Manor,104,53,M4S 3C8,155,3,152,1993,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,313896.362,4839606.394,-79.386954,43.6983581
+1243,5429,740,Holly Park,104,53,M4S 3A4,156,103,53,1977,High Rise,High Rise Apt. Bldg. & Towns,15,15 - Storey High Rise Apt. Bldg. and Townhouses,313200.179,4840510.049,-79.395577,43.7065
+1244,5430,740,Holly Park,104,53,M4S 3A5,14,9,5,1977,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Apt. Bldg attached wing,313137.344,4840500.243,-79.396357,43.7064124
+1245,5551,157,Janet Magee Manor,104,53,M4S 3A3,167,0,167,1980,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,313318.526,4839380.245,-79.394126,43.6963294
+1404,3800,51,Sentinel Road,27,31,M3J 1T4,12,0,12,1963,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,304890.566,4845611.066,-79.498684,43.752464
+1405,3801,51,Sentinel Road,27,31,M3J 1T4,26,0,26,1963,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,304840.11,4845657.27,-79.49931,43.7528799
+390,5546,152,Sheppard Place,34,32,M3H 5X7,301,0,301,1980,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,309725.395,4846266.496,-79.438641,43.7583474
+1383,5565,198,Overbrook Place,34,32,M3H 6B1,79,13,66,1993,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,307652.61,4846438.066,-79.464382,43.7599025
+392,5523,130,West Don Apartments,35,32,M2R 2A4,389,0,389,1972,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,309114.424,4849965.666,-79.446198,43.7916481
+216,5600,207,Champlain Place,33,32,M3H 6B2,132,40,92,1995,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,309186.492,4843646.358,-79.445354,43.734766
+217,5438,185,Faywood Place,33,32,M3H 5Z4,40,14,26,1989,Low Rise,Low Rise Apt. Bldg.Elevator,3,3 - Storey Low Rise Apt. Bldg.,309056.09,4843708.153,-79.446972,43.735323
+218,5630,110,King High Acres,33,32,M3H 3A6,31,0,31,1962,Towns & Wkups,Walkup Apartment Building,3,3-Storey Walk-Up Apt. Bldg.,309368.074,4843808.919,-79.443099,43.7362282
+379,5531,137,Beecroft Manor,37,32,M2N 5W4,283,2,281,1974,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,311585.335,4847355.239,-79.415529,43.7681329
+391,5564,169,The Kempford,37,32,M2N 6J9,239,0,239,1986,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,311609.151,4848226.096,-79.415222,43.7759712
+399,4299,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+400,4300,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+401,4301,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+402,4302,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+403,4303,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+404,4304,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+406,4306,31,Willowdale Avenue,51,32,M2N 5B4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,312433.59,4848381.318,-79.404978,43.7773607
+408,4308,31,Willowdale Avenue,51,32,M2N 5B4,29,0,29,1962,Low Rise,Low Rise Apt. Bldg.Elevator,3,3 - Storey Low Rise Apt. Bldg.,312433.59,4848381.318,-79.404978,43.7773607
+409,4309,31,Willowdale Avenue,51,32,M2N 5B4,30,0,30,1962,Low Rise,Low Rise Apt. Bldg.Elevator,3,3 - Storey Low Rise Apt. Bldg.,312433.59,4848381.318,-79.404978,43.7773607
+385,3590,36,Leslie Finch,49,33,M2H 3B6,48,0,48,1973,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,315312.277,4849843.282,-79.369188,43.790485
+388,3593,36,Leslie Finch,49,33,M2H 3B7,69,0,69,1973,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,315323.378,4849958.289,-79.369048,43.79152
+1631,4312,20,Leslie Nymark,52,33,M2J 4K5,9,0,9,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315630.083,4848239.943,-79.365271,43.7760481
+1632,4314,20,Leslie Nymark,52,33,M2J 4K6,11,0,11,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315477.327,4848287.503,-79.367168,43.7764784
+1634,4320,20,Leslie Nymark,52,33,M2J 4K4,18,0,18,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315635.167,4848208.771,-79.365208,43.7757675
+1635,4311,20,Leslie Nymark,52,33,M2J 4K8,8,0,8,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315527.685,4848344.438,-79.366541,43.7769902
+1636,4313,20,Leslie Nymark,52,33,M2J 4K9,9,0,9,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315483.152,4848318.132,-79.367095,43.7767541
+1637,4315,20,Leslie Nymark,52,33,M2J 4K8,12,0,12,1973,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,315594.133,4848364.285,-79.365715,43.7771679
+1379,3636,4,Finch Topcliffe,25,31,M3N 1M5,34,0,34,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,303953.314,4846250.864,-79.510323,43.7582224
+1384,5524,131,Arleta Manor,25,31,M3L 2E2,201,4,197,1972,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,304714.372,4844449.658,-79.500871,43.7420099
+1386,3807,97,Firgrove Crescent,25,31,M3N 2W7,21,0,21,1975,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,303342.493,4845405.835,-79.517906,43.750615
+1387,3810,97,Firgrove Crescent,25,31,M3N 2W7,25,0,25,1975,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,303314.548,4845478.362,-79.518254,43.7512678
+1389,3808,97,Firgrove Crescent,25,31,M3N 2W9,23,0,23,1975,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,303402.781,4845600.3,-79.517158,43.7523655
+1390,3802,97,Firgrove Crescent,25,31,M3N 2X1,6,0,6,1975,Towns & Wkups,Townhouse Multiplex,3,3-Storey Townhouse Sixplex,303404.9,4845415.786,-79.517128,43.7506961
+1391,3809,97,Firgrove Crescent,25,31,M3N 2X2,25,0,25,1975,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,303382.307,4845415.617,-79.517412,43.7507031
+1655,3621,28,Shaughnessy Boulevard,47,33,M2J 1J9,7,0,7,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,316551.903,4848680.135,-79.353811,43.7799964
+1656,3622,28,Shaughnessy Boulevard,47,33,M2J 1J9,10,0,10,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,316562.913,4848639.434,-79.353675,43.7796299
+1657,3623,28,Shaughnessy Boulevard,47,33,M2J 1J9,12,0,12,1963,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,316554.021,4848673.946,-79.353785,43.7799407
+1641,3613,5,Parkwoods Rayoak,45,33,M3A 2X1,81,0,81,1962,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,319274.057,4846410.106,-79.32005,43.7595072
+1642,3614,5,Parkwoods Rayoak,45,33,M3A 2Y4,63,0,63,1962,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,319325.589,4846447.109,-79.319412,43.7598478
+1643,4321,39,Roywood Drive,45,33,M3A 2E8,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,318005.176,4846778.056,-79.335803,43.7628512
+1644,4322,39,Roywood Drive,45,33,M3A 2E9,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,318015.927,4846710.556,-79.335671,43.7622434
+1647,4325,39,Roywood Drive,45,33,M3A 2E9,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,318019.046,4846674.512,-79.335633,43.7619189
+1662,3502,79,Sheppard Birchmount 1,118,42,M1T 2G7,6,0,6,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Sixplex,320667.272,4848971.045,-79.302676,43.7825385
+1663,3503,79,Sheppard Birchmount 1,118,42,M1T 2G7,7,0,7,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,320667.272,4848971.045,-79.302676,43.7825385
+1664,3504,79,Sheppard Birchmount 1,118,42,M1T 2G7,7,0,7,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,320667.272,4848971.045,-79.302676,43.7825385
+1666,3506,79,Sheppard Birchmount 1,118,42,M1T 2G7,8,0,8,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,320667.272,4848971.045,-79.302676,43.7825385
+1667,3507,79,Sheppard Birchmount 1,118,42,M1T 2G7,8,0,8,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,320667.272,4848971.045,-79.302676,43.7825385
+1670,3510,79,Sheppard Birchmount 1,118,42,M1T 2G7,10,0,10,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,320667.272,4848971.045,-79.302676,43.7825385
+1671,3511,95,Sheppard Birchmount 2,118,42,M1T 2G5,184,0,184,1970,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt Bldg.,320815.234,4848827.17,-79.300842,43.7812403
+1993,5533,139,Tam O'Shanter Towers,118,42,M1T 3P6,300,5,295,1975,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,321558.259,4848916.184,-79.291608,43.782025
+990,5437,184,The Overlea,55,53,M4H 1N8,219,10,209,1988,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,317013.706,4840297.828,-79.348263,43.7045379
+1487,3919,50,Flemingdon Park,44,54,M3C 1E1,11,0,11,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318502.481,4841581.211,-79.329759,43.7160635
+1488,3949,50,Flemingdon Park,44,54,M3C 1E1,11,0,11,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318502.481,4841581.211,-79.329759,43.7160635
+1489,3950,50,Flemingdon Park,44,54,M3C 1E1,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318502.481,4841581.211,-79.329759,43.7160635
+1492,3953,50,Flemingdon Park,44,54,M3C 1E1,11,0,11,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318502.481,4841581.211,-79.329759,43.7160635
+1493,3954,50,Flemingdon Park,44,54,M3C 1E1,7,0,7,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318502.481,4841581.211,-79.329759,43.7160635
+1494,3955,50,Flemingdon Park,44,54,M3C 1E1,7,0,7,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318502.481,4841581.211,-79.329759,43.7160635
+1502,3923,50,Flemingdon Park,44,54,M3C 1H3,10,0,10,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318141.779,4841859.736,-79.334228,43.7185772
+1503,3924,50,Flemingdon Park,44,54,M3C 1H3,9,0,9,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318288.256,4841904.094,-79.332409,43.7189738
+1468,4379,11,Jane St. (2585),25,31,M3L 1R8,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,303925.829,4843574.335,-79.51066,43.7341302
+1469,4380,11,Jane St. (2585),25,31,M3L 1R8,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,303925.829,4843574.335,-79.51066,43.7341302
+1470,4381,11,Jane St. (2585),25,31,M3L 1R8,18,0,18,1962,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,303925.829,4843574.335,-79.51066,43.7341302
+1473,4382,41,Sheppard Magellan,25,31,M3L 1Y4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,304001.074,4844075.157,-79.509727,43.7386384
+1474,4383,41,Sheppard Magellan,25,31,M3L 1Y4,12,0,12,1962,Towns & Wkups,Townhouse Back to Back Multifam.,2,2 - Storey Townhouse Back to Back Multifam,304001.074,4844075.157,-79.509727,43.7386384
+1476,4385,41,Sheppard Magellan,25,31,M3L 1Y4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,304001.074,4844075.157,-79.509727,43.7386384
+1477,4386,41,Sheppard Magellan,25,31,M3L 1Y4,12,0,12,1962,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,304001.074,4844075.157,-79.509727,43.7386384
+1382,5520,127,Northwood Apartments,27,31,M3J 1M2,238,1,237,1970,Low Rise,Low Rise Apt. Bldg.Elevator,3,3-Storey Apt. Bldgs. (8 blocks),305627.036,4845754.8,-79.489538,43.7537573
+1403,3799,51,Sentinel Road,27,31,M3J 1T4,12,0,12,1963,Towns & Wkups,Townhouse Centre Hall  Multifam.,2,2 - Storey Townhouse Centre Hall Multifam,304929.919,4845560.041,-79.498195,43.7520048
+1523,3930,50,Flemingdon Park,44,54,M3C 1C1,18,0,18,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1524,3931,50,Flemingdon Park,44,54,M3C 1C1,15,0,15,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1525,3932,50,Flemingdon Park,44,54,M3C 1C1,15,0,15,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1526,3933,50,Flemingdon Park,44,54,M3C 1C1,18,0,18,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1529,3947,50,Flemingdon Park,44,54,M3C 1C2,6,0,6,1962,Towns & Wkups,Stacked Townhouse Multifam.,2,2 - Storey Stacked Townhouse,318614.234,4841669.926,-79.328369,43.7168599
+1058,90115,304,Greenwood Walpole,65,55,M4L 3W5,16,5,11,1987,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318667.171,4837019.297,-79.327832,43.6749982
+1059,90116,304,Greenwood Walpole,65,55,M4L 3W5,16,4,12,1987,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318667.171,4837019.297,-79.327832,43.6749982
+1036,5446,364,Coatsworth Cr. (33),64,55,M4C 5P9,128,45,83,1989,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,319285.482,4837494.411,-79.320151,43.6792629
+1039,5455,364,Coatsworth Cr. (33),64,55,M4C 3H8,6,1,5,1989,Towns & Wkups,Townhouse,3,3 - Storey Townhouse,319378.309,4837534.534,-79.318998,43.6796223
+1046,3076,38,Edgewood Avenue,64,55,M4L 3G8,43,0,43,1956,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,319767.198,4836750.522,-79.314197,43.6725576
+221,4264,200,Lawrence Heights,31,32,M6A 2P1,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,308999.315,4841970.356,-79.44769,43.7196811
+223,4276,200,Lawrence Heights,31,32,M6A 2P1,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,308999.315,4841970.356,-79.44769,43.7196811
+225,4278,200,Lawrence Heights,31,32,M6A 2P1,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,308999.315,4841970.356,-79.44769,43.7196811
+226,4285,200,Lawrence Heights,31,32,M6A 2P1,30,0,30,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309070.52,4842056.181,-79.446806,43.7204532
+238,4249,200,Lawrence Heights,31,32,M6A 2P6,30,0,30,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,308963,4841846.317,-79.448142,43.7185648
+285,4263,200,Lawrence Heights,31,32,M6A 2P2,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,308922.111,4842122.358,-79.448648,43.7210497
+288,4280,200,Lawrence Heights,31,32,M6A 2P2,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,308999.383,4842042.885,-79.447689,43.7203339
+303,4265,200,Lawrence Heights,31,32,M6A 2N9,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,308902.63,4842217.309,-79.448889,43.7219045
+304,4266,200,Lawrence Heights,31,32,M6A 2N9,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,308844.058,4842157.923,-79.449616,43.7213702
+306,4273,200,Lawrence Heights,31,32,M6A 2N9,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,308854.485,4842236.263,-79.449486,43.7220753
+307,4283,200,Lawrence Heights,31,32,M6A 2N6,30,0,30,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309019.13,4841861.075,-79.447445,43.7186973
+309,4290,200,Lawrence Heights,31,32,M6A 2N6,30,0,30,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309132.157,4841865.686,-79.446043,43.7187381
+320,4267,200,Lawrence Heights,31,32,M6A 2P3,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309028.734,4842227.203,-79.447324,43.7219928
+321,4268,200,Lawrence Heights,31,32,M6A 2P3,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,308933.504,4842178.654,-79.448506,43.7215564
+322,4270,200,Lawrence Heights,31,32,M6A 2P3,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309013.329,4842151.58,-79.447515,43.7213122
+273,4224,200,Lawrence Heights,32,32,M6A 2M3,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309315.542,4842367.226,-79.443763,43.7232515
+275,4204,200,Lawrence Heights,32,32,M6A 2M4,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309519.333,4842054.603,-79.441236,43.7204362
+277,4217,200,Lawrence Heights,32,32,M6A 2M4,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309516.64,4842117.496,-79.441269,43.7210024
+278,4227,200,Lawrence Heights,32,32,M6A 2M4,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309402.891,4842123.228,-79.442681,43.7210547
+280,4230,200,Lawrence Heights,32,32,M6A 2M4,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309410.38,4842102.739,-79.442588,43.7208702
+289,4232,200,Lawrence Heights,32,32,M6A 2N3,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309514.797,4841904.254,-79.441294,43.719083
+291,4238,200,Lawrence Heights,32,32,M6A 2N3,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309445.958,4841913.386,-79.442148,43.7191656
+308,4287,200,Lawrence Heights,32,32,M6A 2N5,30,0,30,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309267.368,4841907.933,-79.444361,43.719109
+312,4236,200,Lawrence Heights,32,32,M6A 2M7,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309139.794,4842349.549,-79.445944,43.7230934
+313,4239,200,Lawrence Heights,32,32,M6A 2M7,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309154.837,4842234.568,-79.445758,43.7220584
+314,4288,200,Lawrence Heights,32,32,M6A 2N2,30,0,30,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309287.164,4841783.605,-79.444116,43.7179898
+315,4291,200,Lawrence Heights,32,32,M6A 2N2,30,2,28,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309300.705,4841708.546,-79.443952,43.7173227
+324,4231,200,Lawrence Heights,32,32,M6A 2M8,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309350.165,4841899.794,-79.443337,43.7190439
+325,4284,200,Lawrence Heights,32,32,M6A 2M9,30,0,30,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309325.485,4841849.061,-79.443643,43.7185874
+326,4286,200,Lawrence Heights,32,32,M6A 2M9,30,1,29,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309354.813,4841773.51,-79.44328,43.7179071
+327,4292,200,Lawrence Heights,32,32,M6A 2N1,30,0,30,1957,Towns & Wkups,Walkup Apartment Building,4,4 - Storey Walk-Up Apt. Bldg.,309379.427,4841696.543,-79.442975,43.7172142
+357,4214,200,Lawrence Heights,32,32,M6A 2L9,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309209.22,4842373.123,-79.445082,43.7233052
+358,4222,200,Lawrence Heights,32,32,M6A 2L8,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309443.892,4842330.733,-79.44217,43.7229222
+360,4234,200,Lawrence Heights,32,32,M6A 2L7,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309554.68,4841963.878,-79.440798,43.7196194
+361,4235,200,Lawrence Heights,32,32,M6A 2L7,31,0,31,1957,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Walk-Up Apt. Bldg.,309620.709,4841944.21,-79.439979,43.7194419
+323,4281,200,Lawrence Heights,31,32,M6A 2P3,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,309042.738,4842181.456,-79.44715,43.7215809
+362,4271,200,Lawrence Heights,31,32,M6A 2P4,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309027.807,4842319.483,-79.447334,43.7228234
+363,4279,200,Lawrence Heights,31,32,M6A 2P4,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,308969.642,4842286.538,-79.448057,43.7225272
+364,4282,200,Lawrence Heights,31,32,M6A 2P4,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,309013.978,4842275.962,-79.447506,43.7224318
+373,5613,102,Northacres Apts.,31,32,M6A 2N7,16,0,16,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309087.769,4841947.907,-79.44659,43.7194699
+375,5615,102,Northacres Apts.,31,32,M6A 2N7,16,0,16,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309127.185,4841922.305,-79.446101,43.7192392
+376,5616,102,Northacres Apts.,31,32,M6A 2N7,16,0,16,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309063.825,4841904.992,-79.446887,43.7190838
+1233,5467,405,Bathurst Eglinton,102,53,M5N 1G2,57,10,47,1941,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg. (hist),310938.438,4839973.167,-79.423647,43.7016899
+1234,5468,405,Bathurst Eglinton,102,53,M5N 1G1,36,7,29,1941,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,310866.596,4839949.174,-79.424539,43.7014745
+1240,5949,481,Elm Ridge Dr. (145),102,13,M6B 4H4,53,26,27,1985,High Rise,High Rise Apt. Bldg.Elevator,9,9 - Storey High Rise Apt. Bldg.,309757.376,4840070.68,-79.4383,43.7025767
+215,5571,197,Bathurst Place,32,13,M6B 4K1,160,0,160,1992,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,310431.385,4841846.135,-79.429919,43.7185532
+219,5431,850,Lawrence Avenue W. (650),32,32,M6A 3E8,14,0,14,0,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,309470.115,4841705.466,-79.44185,43.7172939
+227,4201,200,Lawrence Heights,32,32,M6A 2M5,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309382.738,4842294.22,-79.442929,43.7225939
+230,4207,200,Lawrence Heights,32,32,M6A 2M5,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309324.577,4842166.195,-79.443652,43.7214419
+231,4211,200,Lawrence Heights,32,32,M6A 2M5,6,0,6,1957,Towns & Wkups,Townhouse Sixplex,2,2 - Storey Townhouse,309464.029,4842264.995,-79.441921,43.7223304
+232,4213,200,Lawrence Heights,32,32,M6A 2M5,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309310.392,4842213.008,-79.443828,43.7218634
+234,4218,200,Lawrence Heights,32,32,M6A 2M5,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309352.123,4842144.689,-79.44331,43.7212482
+235,4223,200,Lawrence Heights,32,32,M6A 2M5,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309330.961,4842217.264,-79.443573,43.7219016
+269,4209,200,Lawrence Heights,32,32,M6A 2M2,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309436.375,4842405.682,-79.442263,43.7235969
+272,4221,200,Lawrence Heights,32,32,M6A 2M2,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309485.299,4842421.367,-79.441655,43.7237377
+1317,4840,336,South St. Jamestown 2,71,51,M4X 1G9,8,0,8,1885,Houses,House Semi-Detached Multiplex,2,2 - Storey  Semi-Detached House - Multiplex  (hist),315241.925,4836214.363,-79.370326,43.6678084
+1318,4841,336,South St. Jamestown 2,71,51,M4X 1G9,8,0,8,1885,Houses,House Semi-Detached Multiplex,2,2 - Storey  Semi-Detached House - Multiplex  (hist),315248.486,4836215.439,-79.370244,43.667818
+1324,5548,154,Winchester Square,71,51,M4X 1W9,260,0,260,1980,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,315086.046,4835838.834,-79.372266,43.6644304
+993,3526,92,Bessie Luffman,73,51,M5A 2T7,25,0,25,1961,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,315151.16,4835628.239,-79.371463,43.6625339
+994,5366,702,Dan Harrison Complex,73,51,M5A 2R9,8,0,8,1900,Houses,House Detached  Multiplex,3,3-Storey Detached House - Multiplex (hist),315195.303,4835226.1,-79.370923,43.6589135
+996,5370,702,Dan Harrison Complex,73,51,M5A 3Y8,200,0,200,1975,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,315195.512,4835268.965,-79.37092,43.6592994
+997,5371,702,Dan Harrison Complex,73,51,M5A 3Y9,102,1,101,1975,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,315174.827,4835275.301,-79.371176,43.6593567
+1000,5374,702,Dan Harrison Complex,73,51,M5A 2R9,6,0,6,1900,Houses,House Multiplex,3,3 - Storey House - Triplex,315164.904,4835313.922,-79.371298,43.6597044
+1001,5376,702,Dan Harrison Complex,73,51,M5A 2R9,16,0,16,1900,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-Detached House - Fourplex,315157.538,4835328.004,-79.371389,43.6598313
+1004,5383,702,Dan Harrison Complex,73,51,M5A 2R9,6,0,6,1900,Houses,House Detached  Multiplex,3,3 - Storey Detached House - Triplex (hist),315145.82,4835385.12,-79.371533,43.6603456
+1005,4921,384,Dundas St. E. (257),73,51,M5A 1Z8,36,12,24,1978,Houses,House Semi-Detached Multiplex,3,3-Storey & 2-Storey Semi-Detachyed Houses - Multiplex,315100.102,4835127.835,-79.372105,43.6580304
+1008,3243,88,Moss Park,73,51,M5A 1W4,299,0,299,1964,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,315440.851,4834874.003,-79.367885,43.6557407
+1010,3245,88,Moss Park,73,51,M5A 1W6,300,0,300,1964,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,315647.841,4834985.943,-79.365317,43.6567453
+1011,6001,726,Ontario St. (295-299),73,51,M5A 2V8,9,4,5,1981,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,315389.957,4835284.103,-79.368508,43.6594329
+1012,4787,313,Pembroke Mews,73,51,M5A 2N6,16,0,16,1978,Towns & Wkups,Townhouse Multifam.,4,4 - Storey Townhouse (id),315138.611,4835020.074,-79.371627,43.6570514
+1047,3077,38,Edgewood Avenue,64,55,M4L 3G9,53,0,53,1956,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,319856.144,4836650.363,-79.313097,43.6716543
+1069,5689,311,Newbold Ave. (11),64,55,M4L 2G6,21,9,12,1984,Towns & Wkups,Walkup Apartment Building,3,3-Storey Walk-Up Apt. Bldg.,319491.665,4837016.428,-79.317607,43.6749565
+1231,5620,105,Woodbine Acres,64,55,M4C 1C8,42,0,42,1960,Low Rise,Low Rise Apt. Bldg.Elevator,3,3-Storey Low Rise Apt. Bldg.,319941.96,4837910.517,-79.311997,43.6829951
+572,5440,187,York Square,112,12,M6M 5E2,210,39,171,1989,High Rise,High Rise Apt. Bldg.Elevator,21,21- Storey & 14-Storey Apt. Bldg.,307352.43,4838898.385,-79.46814,43.6920283
+1250,4054,223,Roselawn Marlee,108,13,M6B 4C3,253,0,253,1974,High Rise,High Rise Apt. Bldg.Elevator,17,17 - Storey High Rise Apt. Bldg.,309501.122,4839993.968,-79.44148,43.701888
+1028,4900,380,Trefann Court,72,51,M5A 3E8,14,9,5,1979,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,315953.172,4835006.8,-79.361531,43.6569285
+2159,4310,19,Gerrard River,72,51,M5A 2E1,469,0,469,1972,High Rise,High Rise Apt. Bldg.Elevator,27,27 - Storey High Rise Apt. Bldg.,316331.701,4835670.531,-79.356824,43.6628971
+2160,3175,85,Regent Park (North),72,51,M5A 2C1,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,316127.432,4835471.896,-79.359361,43.6611123
+2161,3165,85,Regent Park (North),72,51,M5A 2H4,12,0,12,1948,Houses,House Semi-Detached Multiplex,3,3 - Storey Semi-Detached Multiplex,315907.982,4835572.868,-79.36208,43.6620246
+2162,3168,85,Regent Park (North),72,51,M5A 2H1,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,316053.307,4835690.791,-79.360276,43.6630839
+2163,3170,85,Regent Park (North),72,51,M5A 2G5,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,315688.277,4835597.365,-79.364804,43.6622483
+2164,3173,85,Regent Park (North),72,51,M5A 2G5,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,315553.52,4835560.792,-79.366475,43.661921
+2165,3178,85,Regent Park (North),72,51,M5A 2H5,53,0,53,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,315855.222,4835647.36,-79.362733,43.6626959
+2167,3183,85,Regent Park (North),72,51,M5A 2Z9,71,0,71,1948,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,315554.284,4835464.754,-79.366467,43.6610565
+2168,3157,85,Regent Park (North),72,51,M5A 3P7,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,316184.412,4835563.389,-79.358653,43.661935
+2170,3161,85,Regent Park (North),72,51,M5A 3P7,8,0,8,1948,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,316129.146,4835711.925,-79.359335,43.6632729
+2172,3158,85,Regent Park (North),72,51,M5A 3G1,8,0,8,1948,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,315861.197,4835533.52,-79.362661,43.6616711
+2173,3169,85,Regent Park (North),72,51,M5A 3G1,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,315813.619,4835552.43,-79.36325,43.661842
+2174,3185,85,Regent Park (North),72,51,M5A 3S7,71,0,71,1948,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,315749.006,4835519.022,-79.364052,43.6615422
+2175,3162,85,Regent Park (North),72,51,M5A 3K3,8,0,8,1948,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,315989.773,4835659.97,-79.361064,43.6628074
+2176,3163,85,Regent Park (North),72,51,M5A 3K2,8,0,8,1948,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,315948.572,4835647.57,-79.361575,43.6626964
+2178,3174,85,Regent Park (North),72,51,M5A 3K3,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,316043.374,4835527.56,-79.360402,43.6616147
+2179,3176,85,Regent Park (North),72,51,M5A 3K2,47,0,47,1948,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,315950.172,4835597.5,-79.361556,43.6622457
+2181,3067,201,Regent Park (South),72,51,M5A 3M3,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse Multifam,316148.493,4835301.351,-79.359104,43.6595769
+2182,3070,201,Regent Park (South),72,51,M5A 3M3,17,0,17,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,316147.598,4835298.688,-79.359115,43.6595529
+2184,3075,201,Regent Park (South),72,51,M5A 3M4,96,0,96,1957,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,316108.354,4835274.192,-79.359602,43.659333
+2187,3057,201,Regent Park (South),72,51,M5A 1X8,22,0,22,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,316226.015,4835274.565,-79.358143,43.6593346
+2189,3062,201,Regent Park (South),72,51,M5A 1Y7,96,0,96,1957,High Rise,High Rise Apt. Bldg.Elevator,13,13 - Storey High Rise Apt. Bldg.,316070.141,4835390.911,-79.360073,43.6603842
+2190,3060,201,Regent Park (South),72,51,M5A 3T3,15,0,15,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,316202.364,4835391.022,-79.358434,43.6603832
+2191,3061,201,Regent Park (South),72,51,M5A 2J7,21,0,21,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,316195.565,4835412.65,-79.358518,43.660578
+2204,80309,922,Sackville St. (246),72,51,M5A 3N7,14,0,14,2011,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,315710.448,4835263.225,-79.364532,43.6592317
+2206,76368,921,Sackville St. (252),72,51,M5A 3E9,159,2,157,2009,High Rise,High Rise Apt. Bldg.Elevator,22,22 - Storey High Rise Apt. Bldg.,315799.416,4835404.366,-79.363429,43.6605094
+2209,78843,923,Oak St. (1),72,51,M5A 0A1,84,20,64,2010,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,315586.239,4835419.538,-79.366069,43.6606405
+2210,80311,923,Oak St. (1),72,51,M5A 4N8,12,0,12,2011,Towns & Wkups,Stacked Townhouse,3,3 - Storey Stacked Townhouse,315714.761,4835390.803,-79.364479,43.6603886
+236,4226,200,Lawrence Heights,32,32,M6A 2M5,8,0,8,1957,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,309478.143,4842251.89,-79.441746,43.7222123
+243,4208,200,Lawrence Heights,32,32,M6A 2M6,6,0,6,1957,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Sixplex,309202.277,4842253.239,-79.445169,43.7222261
+2193,74474,334,Rivertowne,70,55,M4M 2S7,38,0,38,2008,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,316712.146,4835373.024,-79.352114,43.6602132
+2194,74475,334,Rivertowne,70,55,M4M 2S9,28,0,28,2008,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,316672.315,4835412.611,-79.352607,43.6605702
+2196,74477,334,Rivertowne,70,55,M4M 1M4,56,0,56,2008,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,316637.682,4835376.563,-79.353037,43.6602462
+2198,80063,334,Rivertowne,70,55,M4M 3K4,30,2,28,2011,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,316768.451,4835288.668,-79.351414,43.6594444
+834,4783,306,Cavell Harcourt,68,55,M4K 1M3,15,4,11,1977,Towns & Wkups,Walkup Apartment Building,3,3-Storey Walk-Up Apt. Bldg.,317322.303,4837255.226,-79.344505,43.6771456
+2213,80061,363,Broadview Ave. (717),68,55,M4K 2P5,69,64,5,1972,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,316277.466,4837033.163,-79.357468,43.6751635
+815,4055,33,Blake Boultbee,69,55,M4J 3E1,189,0,189,1969,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,317736.256,4836964.143,-79.339378,43.6745184
+816,4058,33,Blake Boultbee,69,55,M4J 3C9,25,0,25,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,317803.568,4836763.417,-79.338548,43.6727104
+817,4059,33,Blake Boultbee,69,55,M4J 3C9,10,0,10,1969,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam(partly 2 storey),317744.045,4836801.002,-79.339285,43.6730497
+818,4060,33,Blake Boultbee,69,55,M4J 3C9,20,0,20,1969,Towns & Wkups,Townhouse Back to Back Multifam.,3,3 - Storey Townhouse Back to Back Multifam(partly 2 storey),317725.381,4836857.853,-79.339515,43.6735618
+819,4061,33,Blake Boultbee,69,55,M4J 3C9,20,0,20,1969,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,317758.318,4836894.565,-79.339106,43.6738917
+820,4062,33,Blake Boultbee,69,55,M4J 3C9,13,0,13,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,317777.441,4836784.394,-79.338871,43.6728996
+821,4056,33,Blake Boultbee,69,55,M4J 1A6,166,0,166,1969,High Rise,High Rise Apt. Bldg.Elevator,11,11 - Storey High Rise Apt. Bldg.,317696.053,4836777.628,-79.339881,43.6728402
+825,4747,306,Cavell Harcourt,69,55,M4J 1H6,6,2,4,1977,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,317551.233,4837268.801,-79.341665,43.6772639
+826,4753,306,Cavell Harcourt,69,55,M4J 1H6,6,3,3,1977,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,317436.336,4837236.614,-79.343091,43.6769761
+836,5554,159,Frances Beavis Manor,69,55,M4K 3Y6,139,0,139,1981,High Rise,High Rise Apt. Bldg.Elevator,8,8 - Storey High Rise Apt. Bldg.,317629.833,4836441.05,-79.34071,43.6698117
+848,3653,86,Phin Park,69,55,M4J 3T2,24,0,24,1959,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,318018.089,4837440.899,-79.335871,43.678805
+865,5695,315,Queen Victoria (40),69,55,M4J 1E9,6,4,2,1983,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,318123.602,4837292.23,-79.334566,43.6774649
+1051,5532,138,Greenwood Towers,66,54,M4J 4Y9,350,1,349,1974,High Rise,High Rise Apt. Bldg.Elevator,14,14 - Storey High Rise Apt. Bldg.,318166.408,4837751.63,-79.334024,43.6815994
+814,5562,167,Blair Court,59,54,M4J 5B1,254,0,254,1986,High Rise,High Rise Apt. Bldg.Elevator,8,8 & 6-Storey High Rise Apt. Bldgs.,317529.069,4838645.48,-79.341908,43.6896562
+1041,5730,361,Coxwell Stables,65,55,M4L 3B7,11,2,9,1919,Towns & Wkups,Townhouse,2,2 - Storey Townhouse,319201.27,4837236.456,-79.321202,43.6769427
+1042,4737,801,Danforth Ave. (1275),65,55,M4J 5B6,109,23,86,1988,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,318496.368,4837711.867,-79.329932,43.6812355
+1043,4072,91,Don Summerville,65,55,M4L 1E6,60,0,60,1969,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,319405.759,4835983.683,-79.3187,43.6656624
+1045,4074,93,Eastview Park,65,55,M4L 1B1,41,0,41,1965,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,319619.997,4836006.059,-79.316043,43.6658597
+1053,90110,304,Greenwood Walpole,65,55,M4L 3W5,18,8,10,1987,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318667.171,4837019.297,-79.327832,43.6749982
+1055,90112,304,Greenwood Walpole,65,55,M4L 3W5,20,11,9,1987,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318667.171,4837019.297,-79.327832,43.6749982
+1056,90113,304,Greenwood Walpole,65,55,M4L 3W5,10,4,6,1987,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318667.171,4837019.297,-79.327832,43.6749982
+1057,90114,304,Greenwood Walpole,65,55,M4L 3W5,12,3,9,1987,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318667.171,4837019.297,-79.327832,43.6749982
+366,3963,216,Neptune Drive,32,32,M6A 2Y3,32,1,31,1974,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,309577.593,4843108.688,-79.4405,43.7299153
+367,3964,216,Neptune Drive,32,32,M6A 2Y4,54,0,54,1974,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,309572.41,4843069.517,-79.440565,43.7295627
+368,3965,216,Neptune Drive,32,32,M6A 2Y3,48,0,48,1974,Towns & Wkups,Stacked Townhouse Multifam.,4,4 - Storey Stacked Townhouse,309646.53,4843100.909,-79.439645,43.7298448
+369,5609,102,Northacres Apts.,32,32,M6A 2N4,16,0,16,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309459.88,4841988.88,-79.441974,43.719845
+370,5610,102,Northacres Apts.,32,32,M6A 2N4,16,0,16,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309416.056,4841979.259,-79.442518,43.7197587
+372,5612,102,Northacres Apts.,32,32,M6A 2N4,15,0,15,1958,Towns & Wkups,Walkup Apartment Building,2,2 - Storey Walk-Up Apt. Bldg.,309372.232,4842010.257,-79.443062,43.720038
+377,5560,165,Saranac Apartments,32,32,M6A 3A7,181,0,181,1983,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,310348.858,4842220.108,-79.430939,43.72192
+365,5558,163,Marjory Carton Apartments,39,32,M5M 4M8,125,0,125,1982,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid  Rise Apt. Bldg.,311012.907,4844151.197,-79.422675,43.7392975
+1256,5589,730,William Clarkin Mews,103,53,M4N 2H8,41,13,28,1937,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,312833.856,4841792.101,-79.400103,43.7180441
+1257,5590,730,William Clarkin Mews,103,53,M4N 2H8,41,14,27,1937,Low Rise,Low Rise Apt. Bldg.Elevator,4,4 - Storey Low Rise Apt. Bldg.,312798.75,4841811.418,-79.400539,43.7182184
+1258,5591,730,William Clarkin Mews,103,53,M4N 2H8,31,6,25,1937,Towns & Wkups,Walkup Apartment Building,3,3 - Storey Low Rise Apt. Bldg.,312833.606,4841841.405,-79.400106,43.7184879
+1237,5593,732,Broadway Ave. (28),104,53,M4P 1T5,75,19,56,1956,Low Rise,Low Rise Apt. Bldg.Elevator,3,3 - Storey Low Rise Apt. Bldg.,313074.954,4840947.509,-79.397124,43.710439
+1238,5594,734,Courtyard Co-op (Broadway 10),104,53,M4P 3G8,35,7,28,1993,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid  Rise Apt. Bldg.,312983.909,4840917.52,-79.398254,43.7101701
+1239,69530,803,Eglinton Ave. E (220),104,53,M4P 1K4,99,28,71,1970,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,313518.471,4840721.175,-79.391625,43.7083967
+1248,5555,160,Montgomery Place,104,53,M4P 2X9,266,0,266,1981,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,313280.504,4840680.403,-79.394578,43.7080325
+1259,5595,733,Yonge St.  (2401) (Broadway 8 & 12),104,53,M4P 3G9,57,10,47,1993,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,312989.385,4840943.406,-79.398186,43.710403
+1260,5596,733,Yonge St.  (2401) (Broadway 8 & 12),104,53,M4P 3G7,83,23,60,1993,Mid Rise,Mid Rise Apt. Bldg.Elevator,7,7 - Storey Mid  Rise Apt. Bldg.,312978.823,4840892.092,-79.398318,43.7099412
+1246,5436,183,Joseph Brown Manor,105,32,M4N 3P5,110,8,102,1990,Mid Rise,Mid Rise Apt. Bldg.Elevator,5,5 - Storey Mid Rise Apt. Bldg.,312675.228,4842824.244,-79.402057,43.7273367
+1255,5563,168,The Sherwood,99,53,M4P 3B4,105,1,104,1987,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,312891.412,4841348.24,-79.399396,43.7140481
+1340,5516,123,Edgeley Apartments,24,31,M3N 1S5,323,8,315,1969,High Rise,High Rise Apt. Bldg. & 2-storey,11,11 - Storey Apt. Bldg. & attched 2-Storey wing,303286.907,4847413.625,-79.518602,43.7686876
+1342,3565,25,Edgeley Village Driftwood,24,31,M3N 2P7,135,0,135,1967,High Rise,High Rise Apt. Bldg.Elevator,16,16 - Storey High Rise Apt. Bldg.,303458.049,4847261.584,-79.516476,43.7673194
+1345,3581,25,Edgeley Village Driftwood,24,31,M3N 2P8,7,0,7,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303552.939,4847124.045,-79.515297,43.7660816
+1346,3582,25,Edgeley Village Driftwood,24,31,M3N 2P8,10,0,10,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303486.837,4847105.611,-79.516118,43.7659155
+1347,3583,25,Edgeley Village Driftwood,24,31,M3N 2P8,11,0,11,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303519.888,4847132.307,-79.515708,43.7661559
+1348,3584,25,Edgeley Village Driftwood,24,31,M3N 2P8,15,0,15,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303416.286,4847110.696,-79.516994,43.7659612
+1349,3585,25,Edgeley Village Driftwood,24,31,M3N 2P8,16,0,16,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303367.981,4847096.713,-79.517594,43.7658352
+1350,3586,25,Edgeley Village Driftwood,24,31,M3N 2P8,17,0,17,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303427.727,4847047.772,-79.516852,43.7653948
+1351,3587,25,Edgeley Village Driftwood,24,31,M3N 2P8,17,0,17,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303491.286,4847162.179,-79.516063,43.7664247
+1355,3569,25,Edgeley Village Driftwood,24,31,M3N 2P9,7,0,7,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303641.567,4847329.341,-79.514197,43.7679297
+1356,3570,25,Edgeley Village Driftwood,24,31,M3N 2P9,8,0,8,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303618.944,4847466.383,-79.514478,43.7691632
+1357,3571,25,Edgeley Village Driftwood,24,31,M3N 2P9,11,0,11,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303755.117,4847399.82,-79.512787,43.7685643
+1358,3572,25,Edgeley Village Driftwood,24,31,M3N 2P9,13,0,13,1967,Towns & Wkups,Townhouse Multiplex,3,3 - Storey Townhouse,303708.566,4847399.82,-79.513365,43.7685642
+1359,3573,25,Edgeley Village Driftwood,24,31,M3N 2P9,14,0,14,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303719.007,4847476.825,-79.513235,43.7692574
+1361,3575,25,Edgeley Village Driftwood,24,31,M3N 2P9,15,0,15,1967,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,303560.646,4847427.664,-79.515202,43.7688146
+1624,3619,48,Allenbury Gardens,47,33,M2J 2Z2,24,0,24,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,317504.032,4848783.103,-79.34198,43.7809076
+1625,3620,48,Allenbury Gardens,47,33,M2J 2Z2,12,0,12,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,317519.187,4848795.156,-79.341791,43.7810159
+1626,90070,48,Allenbury Gardens,47,33,M2J 2Z2,12,0,12,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,317337.771,4848720.264,-79.344047,43.7803449
+1627,90071,48,Allenbury Gardens,47,33,M2J 2Z2,10,0,10,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,317519.187,4848795.156,-79.341791,43.7810159
+1628,90072,48,Allenbury Gardens,47,33,M2J 2Z2,12,0,12,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,317519.187,4848795.156,-79.341791,43.7810159
+1629,3617,48,Allenbury Gardens,47,33,M2J 3E1,12,0,12,1965,Towns & Wkups,Townhouse Centre Hall Mulrifam.,2,2 - Storey Townhouse Centre Hall,317253.151,4848728.826,-79.345098,43.7804234
+1485,5629,109,East York Acres,60,54,M4C 4P5,200,1,199,1962,Mid Rise,Mid Rise Apt. Bldg.Elevator,6,6 - Storey Mid Rise Apt. Bldg.,319975.998,4839636.799,-79.311526,43.698533
+1482,3142,63,Agnes MacPhail,61,54,M4C 2L7,10,0,10,1969,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,320759.125,4839327.751,-79.30182,43.6957351
+1483,3143,63,Agnes MacPhail,61,54,M4C 2L7,183,0,183,1969,High Rise,High Rise Apt. Bldg.Elevator,25,25 - Storey High Rise Apt. Bldg.,320711.637,4839312.69,-79.302409,43.6956005
+1484,3144,63,Agnes MacPhail,61,54,M4C 2L7,90,0,90,1969,High Rise,High Rise Apt. Bldg.Elevator,17,17 - Storey High Rise Apt. Bldg.,320711.637,4839312.69,-79.302409,43.6956005
+475,5540,146,Byng Towers,121,41,M1L 4P9,194,0,194,1978,High Rise,High Rise Apt. Bldg.Elevator,10,10 - Storey High Rise Apt. Bldg.,322630.485,4839109.71,-79.278611,43.6937304
+525,4099,208,Warden Woods,121,41,M1L 1N7,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322661.416,4839996.292,-79.278198,43.70171
+526,4101,208,Warden Woods,121,41,M1L 1N7,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322724.108,4840041.997,-79.277419,43.7021199
+528,4105,208,Warden Woods,121,41,M1L 1N7,9,0,9,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322543.471,4840011.96,-79.279661,43.7018538
+530,4112,208,Warden Woods,121,41,M1L 1N7,24,0,24,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,322552.169,4840058.895,-79.279551,43.7022761
+531,4088,208,Warden Woods,121,41,M1L 1N9,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322619.892,4840211.083,-79.278706,43.7036443
+533,4113,208,Warden Woods,121,41,M1L 1N8,115,0,115,1962,High Rise,High Rise Apt. Bldg.Elevator,12,12 - Storey High Rise Apt. Bldg.,322432.948,4840133.711,-79.281028,43.7029523
+536,4095,208,Warden Woods,121,41,M1L 3V5,7,0,7,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322509.36,4839757.759,-79.280092,43.6995665
+537,4100,208,Warden Woods,121,41,M1L 3V5,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322580.369,4839780.545,-79.279211,43.6997699
+538,4104,208,Warden Woods,121,41,M1L 3V5,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322537.495,4839764.11,-79.279743,43.699623
+540,4108,208,Warden Woods,121,41,M1L 3V6,12,0,12,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322532.097,4839828.768,-79.279808,43.7002051
+541,4109,208,Warden Woods,121,41,M1L 3V6,12,0,12,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,322555.063,4839819.178,-79.279523,43.7001183
+542,4102,208,Warden Woods,121,41,M1L 3Y6,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322608.577,4839786.08,-79.278861,43.6998191
+543,4098,208,Warden Woods,121,41,M1L 4N5,11,0,11,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse,322581.014,4840410.909,-79.279182,43.7054439
+544,5633,113,Woodland Acres North,121,41,M1L 3Z9,223,0,223,1964,High Rise,High Rise Apt. Bldg.Elevator,15,15 - Storey High Rise Apt. Bldg.,322591.704,4840468.483,-79.279047,43.7059619
+1504,3934,50,Flemingdon Park,44,54,M3C 1H3,7,0,7,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318141.779,4841859.736,-79.334228,43.7185772
+1505,3935,50,Flemingdon Park,44,54,M3C 1H3,9,0,9,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318141.779,4841859.736,-79.334228,43.7185772
+1506,3936,50,Flemingdon Park,44,54,M3C 1H3,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318141.779,4841859.736,-79.334228,43.7185772
+1507,3937,50,Flemingdon Park,44,54,M3C 1H3,10,0,10,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318288.256,4841904.094,-79.332409,43.7189738
+1510,3938,50,Flemingdon Park,44,54,M3C 1E8,10,0,10,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318146.13,4841802.472,-79.334172,43.7180531
+1511,3939,50,Flemingdon Park,44,54,M3C 1E8,8,0,8,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318264.771,4841842.835,-79.332702,43.7184228
+1512,3940,50,Flemingdon Park,44,54,M3C 1E8,11,0,11,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318264.771,4841842.835,-79.332702,43.7184228
+1513,3941,50,Flemingdon Park,44,54,M3C 1E8,11,0,11,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318264.771,4841842.835,-79.332702,43.7184228
+1514,3942,50,Flemingdon Park,44,54,M3C 1E8,9,0,9,1962,Towns & Wkups,Townhouse Multiplex,2,2-Storey Townhouse Fiveplex,318316.753,4841861.181,-79.332056,43.718587
+1517,90128,50,Flemingdon Park,44,54,M3C 1E8,9,0,9,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318146.13,4841802.472,-79.334172,43.7180531
+1518,3920,50,Flemingdon Park,44,54,M3C 1C2,12,0,12,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318551.875,4841675.192,-79.329143,43.7169085
+1519,3921,50,Flemingdon Park,44,54,M3C 1C2,18,0,18,1962,Towns & Wkups,Townhouse Multiplex,2,2 - Storey Townhouse Multifam,318614.234,4841669.926,-79.328369,43.7168599
+1520,3922,50,Flemingdon Park,44,54,M3C 1C2,26,0,26,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318632.584,4841675.86,-79.328142,43.7169129
+1521,3928,50,Flemingdon Park,44,54,M3C 1C1,21,0,21,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
+1522,3929,50,Flemingdon Park,44,54,M3C 1C1,15,0,15,1962,Towns & Wkups,Stacked Townhouse Multifam.,3,3 - Storey Stacked Townhouse,318685.516,4841557.36,-79.327488,43.7158453
